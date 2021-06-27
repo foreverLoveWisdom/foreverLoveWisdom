@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=foreverLoveWisdom)
 
 #### A bit about me
-My name is Tien Do. I am currently working as a Ruby on Rails software developer. Ruby is one of my first programming languages, and I feel lucky that I found it because its amazing freedom and expressive syntax just gets along with me so well (thanks Matsumoto and all other phenomenal developers who have spent lots of effort to develop this fanstatic porgramming language)
+My name is `Tien Do`. I am currently working as a `Ruby on Rails software developer`. `Ruby` is one of my first programming languages, and I feel `lucky` that I found it because its amazing `freedom` and `expressive` syntax just gets along with me so well (`thanks Matsumoto` and `all other phenomenal developers` who have spent lots of effort to develop this fanstatic porgramming language)
 
-Ruby on Rails is built on top of Ruby and I do enjoy Ruby, so you can understand how much I enjoy Ruby on Rails
+`Ruby on Rails` is built on top of Ruby and I do enjoy Ruby, so you can understand how much I enjoy Ruby on Rails
 
-My current goals are to become better Ruby on Rails software developer every day and contribute back to the open source community
+My current goals are to become a `better Ruby on Rails software developer every day` and `contribute back to the open source community in the near future`
 
 #### My Github Stats
 
