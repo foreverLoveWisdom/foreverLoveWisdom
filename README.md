@@ -34,6 +34,7 @@ My current goals are to become a `better Ruby on Rails software developer every 
 
 [![foreverLoveWisdom's GitHub stats](https://github-readme-stats.vercel.app/api?username=foreverLoveWisdom&show_icons=true&theme=react&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![foreverLoveWisdom's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=foreverLoveWisdom&show_icons=true&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![foreverLoveWisdom's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=foreverLoveWisdom&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
+
