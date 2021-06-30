@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 <img src="https://codecondo.com/wp-content/uploads/2017/09/railslogo.png" width="250" height="250">
 
-![](https://komarev.com/ghpvc/?username=foreverLoveWisdom)
-
 #### A bit about me
 My name is `Tien Do`. I am currently working as a `Ruby on Rails software developer`. `Ruby` is one of my first programming languages, and I feel `lucky` that I found it because its amazing `freedom` and `expressive` syntax just gets along with me so well (`thanks Matsumoto` and `all other phenomenal developers` who have spent lots of effort to develop this fanstatic porgramming language)
 
