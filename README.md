@@ -35,17 +35,17 @@ My current goals are to become a `better Ruby on Rails software developer every 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-47-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-52-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 99 Contributions in the Year 2021
+> 🏆 101 Contributions in the Year 2021
  > 
 > 📦 55.3 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 101 Public Repositories 
+> 📜 103 Public Repositories 
  > 
 > 🔑 2 Private Repositories  
  > 
