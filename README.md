@@ -108,3 +108,7 @@ HTML                     1 repo              █░░░░░░░░░░�
  Last Updated on 10/07/2021
 <!--END_SECTION:waka-->
 
+
+> There is no large codebase in any language that has zero accidental complexity. There are awkward bugfixes. There are workarounds. There are mitigations.
+> There are many many reasons why the code which is useful won't be pure and beautiful.
+
