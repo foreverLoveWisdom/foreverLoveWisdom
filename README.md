@@ -39,13 +39,13 @@ My current goals are to become a `better Ruby on Rails software developer every 
 
 **🐱 My Github Data** 
 
-> 🏆 112 Contributions in the Year 2021
+> 🏆 115 Contributions in the Year 2021
  > 
 > 📦 55.3 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 108 Public Repositories 
+> 📜 111 Public Repositories 
  > 
 > 🔑 2 Private Repositories  
  > 
