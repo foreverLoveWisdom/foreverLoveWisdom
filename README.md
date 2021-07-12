@@ -114,4 +114,4 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 > Changeability is the only design metric that matters; code that's easy to change is well-designed
 
-> This book is about designing object software. Like many human endeavors, design is part art, part engineering, and part guesswork and experimentation. Discipline, hard work, inspiration, and sound technique all play their parts
+> Like many human endeavors, design is part art, part engineering, and part guesswork and experimentation. Discipline, hard work, inspiration, and sound technique all play their parts
