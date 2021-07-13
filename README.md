@@ -116,5 +116,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 > Like many human endeavors, design is part art, part engineering, and part guesswork and experimentation. Discipline, hard work, inspiration, and sound technique all play their parts
 
-> “Mak­ing even a sim­ple change to a mono­lith­ic code­base is pret­ty hard because you must under­stand the entire thing very well. Mak­ing changes to small­er, well-defined mod­ules is much easier.”
+> Mak­ing even a sim­ple change to a mono­lith­ic code­base is pret­ty hard because you must under­stand the entire thing very well. Mak­ing changes to small­er, well-defined mod­ules is much easier.
  
