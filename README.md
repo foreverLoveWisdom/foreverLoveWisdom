@@ -43,7 +43,7 @@ My current goals are to become a `better Ruby on Rails software developer every 
 
 > 🏆 133 Contributions in the Year 2021
  > 
-> 📦 55.3 kB Used in Github's Storage 
+> 📦 55.4 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -107,7 +107,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/07/2021
+ Last Updated on 19/07/2021
 <!--END_SECTION:waka-->
 
 
