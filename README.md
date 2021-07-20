@@ -47,7 +47,7 @@ My current goals are to become a `better Ruby on Rails software developer every 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 116 Public Repositories 
+> 📜 120 Public Repositories 
  > 
 > 🔑 2 Private Repositories  
  > 
