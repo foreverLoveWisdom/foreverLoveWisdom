@@ -43,7 +43,7 @@ My current goals are to become a `better Ruby on Rails software developer every 
 
 > 🏆 166 Contributions in the Year 2021
  > 
-> 📦 56.9 kB Used in Github's Storage 
+> 📦 57.0 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
