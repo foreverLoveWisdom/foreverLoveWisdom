@@ -39,11 +39,11 @@ My current goals are to become a `better Ruby on Rails software developer every 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
 > 🏆 174 Contributions in the Year 2021
  > 
-> 📦 57.1 kB Used in Github's Storage 
+> 📦 57.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
