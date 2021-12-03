@@ -37,7 +37,7 @@ My current goals are to become a `better Ruby on Rails software developer every 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-771%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-773%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -80,15 +80,15 @@ Sunday       10 commits     ██████░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               12 hrs 12 mins      ███████████████░░░░░░░░░░   61.57% 
-Haml                     2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.48% 
-SCSS                     1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.54% 
-Ruby                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.32% 
-JSX                      46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.87%
+JavaScript               12 hrs 1 min        ███████████████░░░░░░░░░░   60.03% 
+Haml                     2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.63% 
+SCSS                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.54% 
+Ruby                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.89% 
+vimwiki                  58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.87%
 
 🔥 Editors: 
-Neovim                   18 hrs 13 mins      ███████████████████████░░   91.9% 
-RubyMine                 1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.1%
+Neovim                   18 hrs 27 mins      ███████████████████████░░   92.22% 
+RubyMine                 1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.78%
 
 ```
 
@@ -109,7 +109,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/charts/bar_graph.png) 
 
 
- Last Updated on 02/12/2021
+ Last Updated on 03/12/2021
 <!--END_SECTION:waka-->
 
 
