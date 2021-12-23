@@ -39,25 +39,25 @@ My current goals are to become a `better Ruby on Rails software developer every 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-811%20hrs%2035%20mins-blue)
 
-![](https://komarev.com/ghpvc/?username=foreverLoveWisdom&color=ff69b4)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 219 Contributions in the Year 2021
+> 🏆 223 Contributions in the Year 2021
  > 
 > 📦 58.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 130 Public Repositories 
+> 📜 131 Public Repositories 
  > 
 > 🔑 2 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.82% 
-🌆 Daytime    15 commits     ████████░░░░░░░░░░░░░░░░░   34.09% 
+🌞 Morning    6 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
+🌆 Daytime    12 commits     ██████░░░░░░░░░░░░░░░░░░░   27.27% 
 🌃 Evening    19 commits     ██████████░░░░░░░░░░░░░░░   43.18% 
 🌙 Night      7 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.91%
 
@@ -68,8 +68,8 @@ My current goals are to become a `better Ruby on Rails software developer every 
 Monday       10 commits     █████░░░░░░░░░░░░░░░░░░░░   22.73% 
 Tuesday      12 commits     ██████░░░░░░░░░░░░░░░░░░░   27.27% 
 Wednesday    4 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Friday       5 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   11.36% 
+Thursday     3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.82% 
+Friday       2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.55% 
 Saturday     3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.82% 
 Sunday       10 commits     █████░░░░░░░░░░░░░░░░░░░░   22.73%
 
