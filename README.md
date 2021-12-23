@@ -39,7 +39,7 @@ My current goals are to become a `better Ruby on Rails software developer every 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-811%20hrs%2035%20mins-blue)
 
-![](https://komarev.com/ghpvc/?username=foreverLoveWisdom)
+![](https://komarev.com/ghpvc/?username=foreverLoveWisdom&color=ff69b4)
 
 **🐱 My GitHub Data** 
 
