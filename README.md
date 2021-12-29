@@ -37,8 +37,6 @@ My current goals are to become a `better Ruby on Rails software developer every 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-811%20hrs%2035%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
@@ -80,11 +78,10 @@ Sunday       10 commits     █████░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 41 mins        ████████████████████████░   98.89% 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.11%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   1 hr 42 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
