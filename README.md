@@ -37,7 +37,7 @@ My current goals are to become a `better Ruby on Rails software developer every 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-854%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-855%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -80,15 +80,15 @@ Sunday       9 commits      █████████░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Ruby                     12 hrs 42 mins      ██████████████████░░░░░░░   72.66% 
-JavaScript               2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.29% 
-Haml                     1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.76% 
-SCSS                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.8% 
-Markdown                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.23%
+Ruby                     14 hrs 10 mins      ███████████████████░░░░░░   78.72% 
+JavaScript               1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.45% 
+Haml                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   6.33% 
+SCSS                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.23% 
+Markdown                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.2%
 
 🔥 Editors: 
-Neovim                   17 hrs 8 mins       ████████████████████████░   97.97% 
-RubyMine                 21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.03%
+Neovim                   17 hrs 38 mins      ████████████████████████░   97.93% 
+RubyMine                 22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.07%
 
 ```
 
@@ -109,7 +109,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/01/2022
+ Last Updated on 19/01/2022
 <!--END_SECTION:waka-->
 
 
