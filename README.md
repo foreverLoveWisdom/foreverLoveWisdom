@@ -37,8 +37,6 @@ My current goals are to become a `better Ruby on Rails software developer every 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-862%20hrs%2049%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -80,15 +78,15 @@ Sunday       9 commits      ████████░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Ruby                     8 hrs 32 mins       █████████████████████░░░░   86.02% 
-Haml                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.61% 
-JavaScript               31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.23% 
-vimwiki                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.13% 
-YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.99%
+Ruby                     7 hrs 9 mins        ████████████████████░░░░░   82.97% 
+Haml                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.3% 
+JavaScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.35% 
+YAML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.1% 
+SCSS                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.84%
 
 🔥 Editors: 
-Neovim                   9 hrs 43 mins       ████████████████████████░   97.83% 
-RubyMine                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.17%
+Neovim                   8 hrs 30 mins       ████████████████████████░   98.53% 
+RubyMine                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.47%
 
 ```
 
@@ -109,7 +107,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/charts/bar_graph.png) 
 
 
- Last Updated on 25/01/2022 08:27:27 UTC
+ Last Updated on 25/01/2022 20:23:43 UTC
 <!--END_SECTION:waka-->
 
 
