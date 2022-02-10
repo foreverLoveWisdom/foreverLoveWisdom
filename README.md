@@ -37,7 +37,7 @@ My current goals are to become a `better Ruby on Rails software developer every 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-889%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-890%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -80,15 +80,15 @@ Sunday       12 commits     █████░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Ruby                     3 hrs 59 mins       ████████████████████████░   98.47% 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.37% 
-Haml                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05% 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+Ruby                     3 hrs 50 mins       ██████████████████░░░░░░░   75.36% 
+Haml                     1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   20.99% 
+JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.44% 
+YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.13% 
+Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.08%
 
 🔥 Editors: 
-Neovim                   4 hrs 1 min         ████████████████████████░   99.02% 
-RubyMine                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.98%
+Neovim                   4 hrs 50 mins       ███████████████████████░░   95.1% 
+RubyMine                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.9%
 
 ```
 
@@ -109,7 +109,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/02/2022 16:34:58 UTC
+ Last Updated on 10/02/2022 04:28:58 UTC
 <!--END_SECTION:waka-->
 
 
