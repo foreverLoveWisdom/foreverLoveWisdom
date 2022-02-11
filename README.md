@@ -37,15 +37,13 @@ My current goals are to become a `better Ruby on Rails software developer every 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-894%20hrs%209%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 63 Contributions in the Year 2022
  > 
-> 📦 60.0 kB Used in GitHub's Storage 
+> 📦 60.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -80,15 +78,15 @@ Sunday       12 commits     █████░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Ruby                     4 hrs 30 mins       █████████████████░░░░░░░░   70.22% 
-Haml                     1 hr 31 mins        ██████░░░░░░░░░░░░░░░░░░░   23.67% 
-JavaScript               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.89% 
-YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.36% 
-Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.86%
+Ruby                     6 hrs 9 mins        ██████████████████░░░░░░░   72.8% 
+Haml                     1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   19.47% 
+JavaScript               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.04% 
+YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.03% 
+Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.65%
 
 🔥 Editors: 
-Neovim                   6 hrs 9 mins        ████████████████████████░   96.1% 
-RubyMine                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.9%
+Neovim                   8 hrs 5 mins        ████████████████████████░   95.61% 
+RubyMine                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.39%
 
 ```
 
@@ -109,7 +107,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/02/2022 16:30:07 UTC
+ Last Updated on 11/02/2022 20:23:45 UTC
 <!--END_SECTION:waka-->
 
 
