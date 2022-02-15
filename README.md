@@ -37,8 +37,6 @@ My current goals are to become a `better Ruby on Rails software developer every 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-902%20hrs%2055%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -80,15 +78,15 @@ Sunday       12 commits     █████░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Ruby                     9 hrs 6 mins        ████████████████░░░░░░░░░   67.48% 
-Haml                     2 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   21.74% 
-JavaScript               57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.11% 
-YAML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.15% 
-SCSS                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.03%
+Ruby                     12 hrs 6 mins       ██████████████████░░░░░░░   73.54% 
+Haml                     2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.82% 
+JavaScript               58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.93% 
+YAML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.42% 
+SCSS                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.84%
 
 🔥 Editors: 
-Neovim                   13 hrs 7 mins       ████████████████████████░   97.25% 
-RubyMine                 22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.75%
+Neovim                   16 hrs 4 mins       ████████████████████████░   97.65% 
+RubyMine                 23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.35%
 
 ```
 
@@ -109,7 +107,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/02/2022 16:28:44 UTC
+ Last Updated on 15/02/2022 20:23:46 UTC
 <!--END_SECTION:waka-->
 
 
