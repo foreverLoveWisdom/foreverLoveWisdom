@@ -37,6 +37,8 @@ My current goals are to become a `better Ruby on Rails software developer every 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-913%20hrs%2032%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -78,15 +80,15 @@ Sunday       12 commits     █████░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Ruby                     14 hrs 29 mins      ████████████████████░░░░░   81.66% 
-Haml                     1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.59% 
-JavaScript               57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.38% 
-YAML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.39% 
-SCSS                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.78%
+Ruby                     20 hrs 1 min        █████████████████████░░░░   87.21% 
+Haml                     1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.17% 
+JavaScript               50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.68% 
+YAML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.95% 
+SCSS                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.6%
 
 🔥 Editors: 
-Neovim                   17 hrs 36 mins      ████████████████████████░   99.22% 
-RubyMine                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.78%
+Neovim                   22 hrs 21 mins      ████████████████████████░   97.36% 
+RubyMine                 36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.64%
 
 ```
 
@@ -107,7 +109,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/02/2022 20:22:29 UTC
+ Last Updated on 18/02/2022 12:36:27 UTC
 <!--END_SECTION:waka-->
 
 
