@@ -37,6 +37,8 @@ My current goals are to become a `better Ruby on Rails software developer every 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-913%20hrs%2044%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -78,15 +80,15 @@ Sunday       12 commits     █████░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Ruby                     13 hrs 57 mins      ████████████████████████░   96.81% 
-Haml                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.61% 
-JavaScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.94% 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.4% 
-ERB                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
+Ruby                     10 hrs 21 mins      ████████████████████████░   96.02% 
+Haml                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.11% 
+JavaScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.09% 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.48% 
+ERB                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
 
 🔥 Editors: 
-Neovim                   13 hrs 52 mins      ████████████████████████░   96.27% 
-RubyMine                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.73%
+Neovim                   10 hrs 8 mins       ███████████████████████░░   94.03% 
+RubyMine                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.97%
 
 ```
 
@@ -107,7 +109,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/02/2022 20:24:37 UTC
+ Last Updated on 23/02/2022 01:24:51 UTC
 <!--END_SECTION:waka-->
 
 
