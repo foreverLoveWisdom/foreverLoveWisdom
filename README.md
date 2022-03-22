@@ -37,8 +37,6 @@ My current goals are to become a `better Ruby on Rails software developer every 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-924%20hrs%2047%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -80,12 +78,12 @@ Sunday       12 commits     █████░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Ruby                     7 hrs 42 mins       ████████████████████████░   97.23% 
-vimwiki                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.77%
+Ruby                     7 hrs 31 mins       ████████████████████████░   97.16% 
+vimwiki                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.84%
 
 🔥 Editors: 
-RubyMine                 4 hrs 8 mins        █████████████░░░░░░░░░░░░   52.14% 
-Neovim                   3 hrs 47 mins       ████████████░░░░░░░░░░░░░   47.86%
+Neovim                   4 hrs 57 mins       ████████████████░░░░░░░░░   64.01% 
+RubyMine                 2 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   35.99%
 
 ```
 
@@ -106,7 +104,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/03/2022 16:40:52 UTC
+ Last Updated on 22/03/2022 20:25:14 UTC
 <!--END_SECTION:waka-->
 
 
