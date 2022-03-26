@@ -37,7 +37,7 @@ My current goals are to become a `better Ruby on Rails software developer every 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-936%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-936%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -45,7 +45,7 @@ My current goals are to become a `better Ruby on Rails software developer every 
 
 > 🏆 69 Contributions in the Year 2022
  > 
-> 📦 61.3 kB Used in GitHub's Storage 
+> 📦 61.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -80,14 +80,15 @@ Sunday       12 commits     █████░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Ruby                     15 hrs 3 mins       ████████████████████████░   96.9% 
-vimwiki                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.42% 
-YAML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.27% 
-Haml                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.41%
+Ruby                     15 hrs 51 mins      ███████████████████████░░   92.88% 
+YAML                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.22% 
+Haml                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.41% 
+vimwiki                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.29% 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2%
 
 🔥 Editors: 
-Neovim                   13 hrs 29 mins      █████████████████████░░░░   86.77% 
-RubyMine                 2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.23%
+Neovim                   16 hrs 21 mins      ████████████████████████░   95.84% 
+RubyMine                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.16%
 
 ```
 
@@ -108,7 +109,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/charts/bar_graph.png) 
 
 
- Last Updated on 25/03/2022 16:36:16 UTC
+ Last Updated on 26/03/2022 04:30:48 UTC
 <!--END_SECTION:waka-->
 
 
