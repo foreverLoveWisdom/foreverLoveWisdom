@@ -37,8 +37,6 @@ My current goals are to become a `better Ruby on Rails software developer every 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-963%20hrs%2045%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -80,15 +78,15 @@ Sunday       12 commits     █████░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Ruby                     14 hrs 5 mins       ██████████████████████░░░   88.34% 
-Haml                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.88% 
-VimL                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.38% 
-YAML                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.74% 
-Other                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.49%
+Ruby                     13 hrs 29 mins      ██████████████████████░░░   88.22% 
+vimwiki                  34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.81% 
+Haml                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.11% 
+YAML                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.79% 
+Other                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.55%
 
 🔥 Editors: 
-Neovim                   14 hrs 57 mins      ███████████████████████░░   93.78% 
-RubyMine                 59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.22%
+Neovim                   13 hrs 37 mins      ██████████████████████░░░   89.16% 
+RubyMine                 1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.84%
 
 ```
 
@@ -109,7 +107,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/04/2022 16:34:48 UTC
+ Last Updated on 06/04/2022 20:25:55 UTC
 <!--END_SECTION:waka-->
 
 
