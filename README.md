@@ -37,8 +37,6 @@ My current goals are to become a `better Ruby on Rails software developer every 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-968%20hrs%2042%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -80,15 +78,15 @@ Sunday       12 commits     █████░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Ruby                     11 hrs 57 mins      ██████████████████████░░░   90.3% 
-vimwiki                  27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.49% 
-Other                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.79% 
-Haml                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.28% 
-YAML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.15%
+Ruby                     12 hrs 9 mins       ███████████████████████░░   92.89% 
+vimwiki                  27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.53% 
+Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.33% 
+SCSS                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.84% 
+VimL                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.61%
 
 🔥 Editors: 
-Neovim                   12 hrs 9 mins       ███████████████████████░░   91.8% 
-RubyMine                 1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.2%
+Neovim                   12 hrs 18 mins      ███████████████████████░░   94.04% 
+RubyMine                 46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.96%
 
 ```
 
@@ -109,7 +107,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/04/2022 04:31:10 UTC
+ Last Updated on 08/04/2022 20:26:11 UTC
 <!--END_SECTION:waka-->
 
 
