@@ -37,8 +37,6 @@ My current goals are to become a `better Ruby on Rails software developer every 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C020%20hrs%2028%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -80,15 +78,15 @@ Sunday       12 commits     █████░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Ruby                     5 hrs 23 mins       ████████████████████░░░░░   80.79% 
-Haml                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.85% 
-YAML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.38% 
-vimwiki                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.86% 
-Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.04%
+Ruby                     5 hrs 9 mins        █████████████████░░░░░░░░   70.6% 
+vimwiki                  50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.6% 
+Haml                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.53% 
+Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.86% 
+YAML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.82%
 
 🔥 Editors: 
-Neovim                   6 hrs 38 mins       █████████████████████████   99.59% 
-RubyMine                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.41%
+Neovim                   6 hrs 52 mins       ███████████████████████░░   94.06% 
+RubyMine                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.94%
 
 ```
 
@@ -109,7 +107,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/05/2022 16:37:54 UTC
+ Last Updated on 06/05/2022 20:27:32 UTC
 <!--END_SECTION:waka-->
 
 
