@@ -37,13 +37,13 @@ My current goals are to become a `better Ruby on Rails software developer every 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C072%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 115 Contributions in the Year 2022
+> 🏆 116 Contributions in the Year 2022
  > 
 > 📦 54.2 kB Used in GitHub's Storage 
  > 
@@ -80,14 +80,15 @@ Sunday       15 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Ruby                     19 hrs 47 mins      █████████████████████░░░░   83.95% 
-vimwiki                  1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.59% 
-YAML                     48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.46% 
-INI                      37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.65% 
-Other                    32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.32%
+Ruby                     21 hrs 56 mins      █████████████████████░░░░   84.36% 
+vimwiki                  1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.31% 
+YAML                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.52% 
+INI                      37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.4% 
+Haml                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.57%
 
 🔥 Editors: 
-Neovim                   23 hrs 34 mins      █████████████████████████   100.0%
+Neovim                   25 hrs 48 mins      ████████████████████████░   99.24% 
+RubyMine                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.76%
 
 ```
 
@@ -108,7 +109,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/05/2022 16:39:35 UTC
+ Last Updated on 26/05/2022 20:28:42 UTC
 <!--END_SECTION:waka-->
 
 
