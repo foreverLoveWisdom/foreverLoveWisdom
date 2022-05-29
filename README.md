@@ -37,13 +37,13 @@ My current goals are to become a `better Ruby on Rails software developer every 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C077%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C077%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 119 Contributions in the Year 2022
+> 🏆 120 Contributions in the Year 2022
  > 
 > 📦 54.2 kB Used in GitHub's Storage 
  > 
@@ -56,22 +56,22 @@ My current goals are to become a `better Ruby on Rails software developer every 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    16 commits     █████░░░░░░░░░░░░░░░░░░░░   19.75% 
-🌆 Daytime    23 commits     ███████░░░░░░░░░░░░░░░░░░   28.4% 
-🌃 Evening    38 commits     ███████████░░░░░░░░░░░░░░   46.91% 
-🌙 Night      4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.94%
+🌞 Morning    16 commits     █████░░░░░░░░░░░░░░░░░░░░   19.51% 
+🌆 Daytime    23 commits     ███████░░░░░░░░░░░░░░░░░░   28.05% 
+🌃 Evening    39 commits     ████████████░░░░░░░░░░░░░   47.56% 
+🌙 Night      4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.88%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       22 commits     ██████░░░░░░░░░░░░░░░░░░░   27.16% 
-Tuesday      15 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.52% 
-Wednesday    9 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-Thursday     5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.17% 
-Friday       6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.41% 
-Saturday     8 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.88% 
-Sunday       16 commits     █████░░░░░░░░░░░░░░░░░░░░   19.75%
+Monday       22 commits     ██████░░░░░░░░░░░░░░░░░░░   26.83% 
+Tuesday      15 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.29% 
+Wednesday    9 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.98% 
+Thursday     5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.1% 
+Friday       6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.32% 
+Saturday     8 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.76% 
+Sunday       17 commits     █████░░░░░░░░░░░░░░░░░░░░   20.73%
 
 ```
 
@@ -109,7 +109,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/charts/bar_graph.png) 
 
 
- Last Updated on 29/05/2022 12:42:39 UTC
+ Last Updated on 29/05/2022 16:34:23 UTC
 <!--END_SECTION:waka-->
 
 
