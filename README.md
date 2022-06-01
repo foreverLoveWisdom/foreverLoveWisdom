@@ -37,7 +37,7 @@ My current goals are to become a `better Ruby on Rails software developer every 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C084%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -45,7 +45,7 @@ My current goals are to become a `better Ruby on Rails software developer every 
 
 > 🏆 120 Contributions in the Year 2022
  > 
-> 📦 54.2 kB Used in GitHub's Storage 
+> 📦 55.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -80,15 +80,15 @@ Sunday       17 commits     █████░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Ruby                     18 hrs 12 mins      ██████████████████████░░░   89.32% 
-vimwiki                  1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.1% 
-Haml                     39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.22% 
-YAML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.24% 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
+Ruby                     16 hrs 22 mins      ███████████████████████░░   94.34% 
+Haml                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.44% 
+vimwiki                  23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.3% 
+YAML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.77% 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14%
 
 🔥 Editors: 
-Neovim                   19 hrs 47 mins      ████████████████████████░   97.07% 
-RubyMine                 35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.93%
+Neovim                   16 hrs 45 mins      ████████████████████████░   96.56% 
+RubyMine                 35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.44%
 
 ```
 
@@ -109,7 +109,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/06/2022 16:39:47 UTC
+ Last Updated on 01/06/2022 20:29:59 UTC
 <!--END_SECTION:waka-->
 
 
