@@ -37,7 +37,7 @@ My current goals are to become a `better Ruby on Rails software developer every 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C097%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -80,14 +80,13 @@ Sunday       17 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Ruby                     15 hrs 43 mins      ███████████████████████░░   95.2% 
-YAML                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.52% 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28% 
-Haml                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+Ruby                     14 hrs 31 mins      ███████████████████████░░   94.61% 
+YAML                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.86% 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3% 
+vimwiki                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22%
 
 🔥 Editors: 
-Neovim                   16 hrs 31 mins      █████████████████████████   100.0%
+Neovim                   15 hrs 21 mins      █████████████████████████   100.0%
 
 ```
 
@@ -108,7 +107,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/06/2022 16:36:43 UTC
+ Last Updated on 07/06/2022 20:27:48 UTC
 <!--END_SECTION:waka-->
 
 
