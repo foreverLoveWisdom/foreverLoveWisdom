@@ -37,7 +37,7 @@ My current goals are to become a `better Ruby on Rails software developer every 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C118%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -80,15 +80,15 @@ Sunday       17 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Ruby                     11 hrs 40 mins      ██████████████████████░░░   88.75% 
-vimwiki                  32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.09% 
-YAML                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.39% 
-VimL                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.63% 
-Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.18%
+Ruby                     11 hrs 20 mins      ██████████████████████░░░   90.03% 
+vimwiki                  20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.69% 
+YAML                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.49% 
+VimL                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.7% 
+Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.15%
 
 🔥 Editors: 
-Neovim                   11 hrs 52 mins      ██████████████████████░░░   90.25% 
-RubyMine                 1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.75%
+Neovim                   11 hrs 26 mins      ██████████████████████░░░   90.78% 
+RubyMine                 1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   9.22%
 
 ```
 
@@ -109,7 +109,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/06/2022 16:41:29 UTC
+ Last Updated on 28/06/2022 20:29:08 UTC
 <!--END_SECTION:waka-->
 
 
