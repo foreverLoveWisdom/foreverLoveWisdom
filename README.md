@@ -124,4 +124,4 @@ C++                      1 repo              ░░░░░░░░░░░�
  
  > Do what you feel in your heart to be right – for you’ll be criticized anyway.
  
- (Exercism Profile)[https://exercism.org/profiles/foreverLoveWisdom]
+[Exercism Profile](https://exercism.org/profiles/foreverLoveWisdom)
