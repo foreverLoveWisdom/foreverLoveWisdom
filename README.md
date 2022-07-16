@@ -37,7 +37,7 @@ My current goals are to become a `better Ruby on Rails software developer every 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C147%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -80,15 +80,16 @@ Sunday       41 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Clojure                  3 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   28.94% 
-Ruby                     2 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.53% 
-YAML                     2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.42% 
-Java                     1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.01% 
-vimwiki                  1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.99%
+Java                     3 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   22.98% 
+Clojure                  2 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.8% 
+Ruby                     2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.12% 
+YAML                     2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.17% 
+vimwiki                  1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.52%
 
 🔥 Editors: 
-Neovim                   13 hrs 24 mins      ████████████████████████░   97.74% 
-RubyMine                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.26%
+Neovim                   15 hrs 32 mins      ████████████████████████░   97.7% 
+RubyMine                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.95% 
+Eclipse                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.34%
 
 ```
 
@@ -109,7 +110,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/07/2022 16:32:01 UTC
+ Last Updated on 16/07/2022 20:25:29 UTC
 <!--END_SECTION:waka-->
 
 
