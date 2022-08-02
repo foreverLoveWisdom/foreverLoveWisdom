@@ -37,7 +37,7 @@ My current goals are to become a `better Ruby on Rails software developer every 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C154%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C154%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -80,14 +80,15 @@ Sunday       41 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Ruby                     34 mins             ████████░░░░░░░░░░░░░░░░░   31.84% 
-vimwiki                  30 mins             ███████░░░░░░░░░░░░░░░░░░   27.98% 
-Clojure                  20 mins             ████░░░░░░░░░░░░░░░░░░░░░   19.32% 
-Java                     18 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.95%
+Ruby                     1 hr 44 mins        ███████████████░░░░░░░░░░   61.46% 
+vimwiki                  20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.24% 
+Clojure                  20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.2% 
+Java                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.14% 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.86%
 
 🔥 Editors: 
-Neovim                   1 hr 47 mins        █████████████████████████   100.0%
+Neovim                   2 hrs 10 mins       ███████████████████░░░░░░   76.68% 
+RubyMine                 39 mins             █████░░░░░░░░░░░░░░░░░░░░   23.32%
 
 ```
 
@@ -108,7 +109,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/08/2022 16:40:05 UTC
+ Last Updated on 02/08/2022 02:33:47 UTC
 <!--END_SECTION:waka-->
 
 
