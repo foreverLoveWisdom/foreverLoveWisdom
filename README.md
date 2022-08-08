@@ -37,7 +37,7 @@ My current goals are to become a `better Ruby on Rails software developer every 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C156%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C156%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -80,15 +80,14 @@ Sunday       41 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Ruby                     3 hrs 51 mins       █████████████████░░░░░░░░   69.49% 
-vimwiki                  56 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.1% 
-Clojure                  41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.46% 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.62% 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33%
+Ruby                     3 hrs 51 mins       ██████████████████████░░░   87.85% 
+vimwiki                  28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.95% 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.78% 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.41%
 
 🔥 Editors: 
-Neovim                   3 hrs 41 mins       ██████████████████░░░░░░░   73.62% 
-RubyMine                 1 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   26.38%
+Neovim                   3 hrs 4 mins        █████████████████░░░░░░░░   69.89% 
+RubyMine                 1 hr 19 mins        ███████░░░░░░░░░░░░░░░░░░   30.11%
 
 ```
 
@@ -109,7 +108,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/08/2022 16:32:50 UTC
+ Last Updated on 08/08/2022 12:49:37 UTC
 <!--END_SECTION:waka-->
 
 
