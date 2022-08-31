@@ -37,7 +37,7 @@ My current goals are to become a `better Ruby on Rails software developer every 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C166%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C167%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -80,15 +80,14 @@ Sunday       41 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Ruby                     4 hrs 56 mins       ███████████████████░░░░░░   76.89% 
-vimwiki                  1 hr                ████░░░░░░░░░░░░░░░░░░░░░   15.74% 
-YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.85% 
-JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.8% 
-fugitiveblame            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.6%
+Ruby                     2 hrs 36 mins       ████████████████░░░░░░░░░   66.22% 
+vimwiki                  1 hr                ██████░░░░░░░░░░░░░░░░░░░   25.73% 
+JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.94% 
+YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.28% 
+fugitiveblame            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.97%
 
 🔥 Editors: 
-Neovim                   6 hrs               ███████████████████████░░   93.37% 
-RubyMine                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.63%
+Neovim                   3 hrs 56 mins       █████████████████████████   100.0%
 
 ```
 
@@ -109,7 +108,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/charts/bar_graph.png) 
 
 
- Last Updated on 31/08/2022 02:49:01 UTC
+ Last Updated on 31/08/2022 05:46:52 UTC
 <!--END_SECTION:waka-->
 
 
