@@ -37,15 +37,15 @@ My current goals are to become a `better Ruby on Rails software developer every 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C286%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C281%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 226 Contributions in the Year 2022
+> 🏆 229 Contributions in the Year 2022
  > 
-> 📦 51.7 kB Used in GitHub's Storage 
+> 📦 51.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -53,45 +53,6 @@ My current goals are to become a `better Ruby on Rails software developer every 
  > 
 > 🔑 4 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    49 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.35% 
-🌆 Daytime    83 commits     ███████░░░░░░░░░░░░░░░░░░   31.09% 
-🌃 Evening    111 commits    ██████████░░░░░░░░░░░░░░░   41.57% 
-🌙 Night      24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.99%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       44 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.48% 
-Tuesday      42 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.73% 
-Wednesday    51 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.1% 
-Thursday     23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.61% 
-Friday       30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.24% 
-Saturday     47 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.6% 
-Sunday       30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.24%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Ruby                     13 hrs 54 mins      ████████████████░░░░░░░░░   65.21% 
-vimwiki                  6 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   31.14% 
-Other                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.19% 
-Bash                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.08% 
-conf                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.72%
-
-🔥 Editors: 
-Neovim                   21 hrs 16 mins      █████████████████████████   99.83% 
-RubyMine                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17%
-
-```
-
 **I Mostly Code in Ruby** 
 
 ```text
@@ -109,7 +70,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/11/2022 16:10:17 UTC
+ Last Updated on 09/11/2022 20:09:34 UTC
 <!--END_SECTION:waka-->
 
 
