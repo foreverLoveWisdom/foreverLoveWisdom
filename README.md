@@ -25,7 +25,7 @@ My name is Tien Do. I am currently working as a Ruby on Rails software developer
 
 Ruby on Rails is built on top of Ruby, and I enjoy Ruby, so you can understand how much I want Ruby on Rails.
 
-My current goals are to become a `better Ruby on Rails software developer every day` and `contribute back to the open source community soon.`
+My current goals are to become a `better Ruby on Rails software developer every day` and `contribute back to the open source community soon.`(Well, the latter is a challenge for me since I keep spending time learning different stuffs about computers and programming...^-^)
 
 #### My Github Stats
 
