@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [Software Craftmanship's manifesto](http://manifesto.softwarecraftsmanship.org/)
 
 #### A bit about me
-My name is Tien Do. I am currently working as a **Ruby on Rails software engineer**. **Ruby** is one of my first programming languages, and I feel **lucky** that I found it because its unique **freedom** and **expressive** syntax gets along with me so well (thanks Matsumoto and all other phenomenal developers who have spent lots of effort to develop this fantastic programming language)
+My name is Tien Do. I am currently working as a **Ruby on Rails software engineer**. **Ruby** is one of my first programming languages, and I feel **lucky** that I found it because its unique **freedom** and **expressive** syntax gets along with me so well (**thanks Matsumoto and all other phenomenal developers** who have spent lots of effort to develop this fantastic programming language)
 
 Ruby on Rails is **built on top of** Ruby, and I **enjoy** Ruby, so you can understand **how much I want Ruby on Rails**.
 
