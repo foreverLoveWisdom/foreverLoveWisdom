@@ -25,7 +25,7 @@ My name is Tien Do. I am currently working as a Ruby on Rails software developer
 
 Ruby on Rails is built on top of Ruby, and I enjoy Ruby, so you can understand how much I want Ruby on Rails.
 
-My current goals are to become a `better Ruby on Rails software developer every day` and `contribute back to the open source community soon.`(Well, the latter is a challenge for me since I keep spending time learning different stuffs about computers and programming...^-^)
+My approach to software engineering is rooted in the principles of game theory. I believe that every problem can be viewed as a game, and that by understanding the underlying strategies and dynamics at play, we can come up with innovative solutions. I am always looking for ways to apply game theory to software development, whether it's optimizing pricing strategies or improving the security of a platform. I am not afraid to think outside the box and come up with unconventional solutions. I am a quick learner, strategic thinker and a team player.
 
 #### My Github Stats
 
