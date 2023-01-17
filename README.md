@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 [Software Craftmanship's manifesto](http://manifesto.softwarecraftsmanship.org/)
 
 #### A bit about me
-My name is Tien Do. I am currently working as a Ruby on Rails software developer. Ruby is one of my first programming languages, and I feel lucky that I found it because its unique `freedom` and `expressive` syntax gets along with me so well (thanks Matsumoto and all other phenomenal developers who have spent lots of effort to develop this fantastic programming language)
+My name is Tien Do. I am currently working as a **Ruby on Rails software engineer**. **Ruby** is one of my first programming languages, and I feel **lucky** that I found it because its unique **freedom** and **expressive** syntax gets along with me so well (thanks Matsumoto and all other phenomenal developers who have spent lots of effort to develop this fantastic programming language)
 
-Ruby on Rails is built on top of Ruby, and I enjoy Ruby, so you can understand how much I want Ruby on Rails.
+Ruby on Rails is **built on top of** Ruby, and I **enjoy** Ruby, so you can understand **how much I want Ruby on Rails**.
 
 ### How I approach software engineer
 My approach to software engineering is rooted in the principles of **game theory**. I believe that every problem can be viewed as a game, and that by understanding the underlying **strategies** and **dynamics** at play, we can come up with **innovative solutions**. I am always looking for ways to apply game theory to software development, whether it's **optimizing pricing strategies** or **improving the security** of a platform. I am not afraid to think **outside the box** and come up with **unconventional solutions**. I am a **quick learner**, **strategic thinker** and a **team player**.
@@ -32,7 +32,7 @@ My approach to software engineering is rooted in the principles of **game theory
 - Proficient in **Ruby** and **familiar** with other programming languages such as Go, C, JavaScript, Rust...
 - Strong understanding of **game theory principles** and its application in software development
 - Strong **problem-solving** and **strategic thinking** skills
-- Experience with software architectures such as microservices, modular monolith, domain driven designs
+- Experience with software architectures such as **microservices, modular monolith, domain driven designs**
 - Familiarity with cloud platforms such as **AWS**
 - Strong **debugging** and **troubleshooting** skills
 
