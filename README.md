@@ -47,7 +47,7 @@ My approach to software engineering is rooted in the principles of **game theory
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C654%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C660%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -55,7 +55,7 @@ My approach to software engineering is rooted in the principles of **game theory
 
 > 🏆 293 Contributions in the Year 2023
  > 
-> 📦 290.3 kB Used in GitHub's Storage 
+> 📦 290.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -90,14 +90,14 @@ Sunday          19 commits       ██░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Ruby                     13 hrs 15 mins      ███████████░░░░░░░░░░░░░░   45.32 % 
-vimwiki                  11 hrs 34 mins      ██████████░░░░░░░░░░░░░░░   39.53 % 
-Markdown                 2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-YAML                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-gitignore                28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Ruby                     13 hrs 53 mins      ███████████░░░░░░░░░░░░░░   44.60 % 
+vimwiki                  11 hrs 34 mins      █████████░░░░░░░░░░░░░░░░   37.15 % 
+Markdown                 2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+Haml                     51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+YAML                     44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 
 🔥 Editors: 
-Neovim                   29 hrs 15 mins      █████████████████████████   100.00 % 
+Neovim                   31 hrs 9 mins       █████████████████████████   100.00 % 
 
 ```
 
@@ -118,7 +118,7 @@ C                        2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/02/2023 20:07:09 UTC
+ Last Updated on 19/02/2023 00:24:48 UTC
 <!--END_SECTION:waka-->
 
 
