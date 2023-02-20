@@ -47,7 +47,7 @@ My approach to software engineering is rooted in the principles of **game theory
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C660%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C666%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -90,14 +90,14 @@ Sunday          19 commits       ██░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Ruby                     13 hrs 53 mins      ███████████░░░░░░░░░░░░░░   44.60 % 
-vimwiki                  11 hrs 34 mins      █████████░░░░░░░░░░░░░░░░   37.15 % 
-Markdown                 2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-Haml                     51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-YAML                     44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+Ruby                     14 hrs 11 mins      ██████████░░░░░░░░░░░░░░░   43.42 % 
+vimwiki                  12 hrs 24 mins      █████████░░░░░░░░░░░░░░░░   37.92 % 
+Markdown                 2 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+Haml                     1 hr 2 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+JavaScript               37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 
 🔥 Editors: 
-Neovim                   31 hrs 9 mins       █████████████████████████   100.00 % 
+Neovim                   32 hrs 42 mins      █████████████████████████   100.00 % 
 
 ```
 
@@ -118,7 +118,7 @@ C                        2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/02/2023 20:06:53 UTC
+ Last Updated on 20/02/2023 00:27:30 UTC
 <!--END_SECTION:waka-->
 
 
