@@ -1,4 +1,4 @@
-> When you have eliminated all which is impossible, then whatever remains, however improbable, must be the truth
+> When you have eliminated all which is impossible, then whatever remains, however improbable, must be the truth 🤔🔍💡
 ### Hi there 👋
 
 <!--
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 Ruby on Rails is **built on top of** Ruby, and I **enjoy** Ruby, so you can understand **how much I want Ruby on Rails**. 🤩
 
 ### 🤔💻🔨 How I approach software engineer
-As a software engineer, I believe in a 🔄 **constantly evolving** approach to learning and growth. I am committed to 🤔 **staying curious and open** to new technologies and techniques, always looking for ways to enhance my skills and understanding. When facing challenges or seeking advice, I 👥  **prioritize solutions that benefit my team and organization**. I am 🎉 passionate about writing code that is **simple, readable, and easy to maintain and modify**, understanding the importance of 🌱 **sustainability and scalability**. Finally, I acknowledge that 🌊 **change is a constant in software engineering and in life**, and I am ready to adapt and evolve as needed to stay ahead of the curve.
+As a software engineer, I believe in a 🔄 **constantly evolving** approach to learning and growth. I am committed to 🤔 **staying curious and open** to new technologies and techniques, always looking for ways to enhance my skills and understanding. When facing challenges or seeking advice, I 👥  **prioritize solutions that benefit my team and organization**. I am 🎉 passionate about writing code that is **simple, readable, and easy to maintain and modify**, understanding the importance of 🌱 **sustainability and scalability**. Finally, I acknowledge that 🌊 **change is a constant in software engineering and in life**, and I am ready to adapt and evolve as needed to stay ahead of the curve 🏃‍♂️📈🔄
 
 ### 📚🧑‍💻🎓 My Skills
 - **Quick learning, adapting** to new technologies, teams, and organizations 🚀
@@ -110,13 +110,13 @@ Vim Script               1 repo              ░░░░░░░░░░░�
 > There is no large codebase in any language that has zero accidental complexity. There are awkward bugfixes. There are workarounds. There are mitigations.
 > There are many many reasons why the code which is useful won't be pure and beautiful.
 
-> Changeability is the only design metric that matters; code that's easy to change is well-designed
+> Changeability is the only design metric that matters; code that's easy to change is well-designed 🛠️🔄🎨
 
-> Like many human endeavors, design is part art, part engineering, and part guesswork and experimentation. Discipline, hard work, inspiration, and sound technique all play their parts
+> Like many human endeavors, design is part art, part engineering, and part guesswork and experimentation. Discipline, hard work, inspiration, and sound technique all play their parts 🎨🧑‍💻🔬🧪
 
-> Mak­ing even a sim­ple change to a mono­lith­ic code­base is pret­ty hard because you must under­stand the entire thing very well. Mak­ing changes to small­er, well-defined mod­ules is much easier.
+> Mak­ing even a sim­ple change to a mono­lith­ic code­base is pret­ty hard because you must under­stand the entire thing very well. Mak­ing changes to small­er, well-defined mod­ules is much easier 💡💻🤔
  
- > Do what you feel in your heart to be right – for you’ll be criticized anyway.
+ > Do what you feel in your heart to be right – for you’ll be criticized anyway 💖🙏🗣️ 
  
 [Exercism Profile](https://exercism.org/profiles/foreverLoveWisdom)
 
