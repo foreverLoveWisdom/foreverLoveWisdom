@@ -49,7 +49,7 @@ My approach to software engineering is rooted in the principles of **game theory
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C701%20hrs%2013%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![](https://komarev.com/ghpvc/?username=foreverLoveWisdom&color=green)
 
 **🐱 My GitHub Data** 
 
