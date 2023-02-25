@@ -51,18 +51,8 @@ My approach to software engineering is rooted in the principles of **game theory
 
 ![](https://komarev.com/ghpvc/?username=foreverLoveWisdom&color=green)
 
-**🐱 My GitHub Data** 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=foreverLoveWisdom&show_icons=true)
 
-> 📦 291.4 kB Used in GitHub's Storage 
- > 
-> 🏆 302 Contributions in the Year 2023
- > 
-> 💼 Opted to Hire
- > 
-> 📜 189 Public Repositories 
- > 
-> 🔑 7 Private Repositories 
- > 
 **I'm a Night 🦉** 
 
 ```text
