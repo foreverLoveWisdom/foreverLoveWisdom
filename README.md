@@ -108,7 +108,7 @@ Vim Script               1 repo              ░░░░░░░░░░░�
 
 
 > There is no large codebase in any language that has zero accidental complexity. There are awkward bugfixes. There are workarounds. There are mitigations.
-> There are many many reasons why the code which is useful won't be pure and beautiful.
+> There are many many reasons why the code which is useful won't be pure and beautiful 💻🐞🤔
 
 > Changeability is the only design metric that matters; code that's easy to change is well-designed 🛠️🔄🎨
 
