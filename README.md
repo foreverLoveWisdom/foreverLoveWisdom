@@ -18,17 +18,17 @@ Here are some ideas to get you started:
 
 <img src="https://codecondo.com/wp-content/uploads/2017/09/railslogo.png" width="250" height="250">
 
-[Software Craftmanship's manifesto](http://manifesto.softwarecraftsmanship.org/)
+ 📜🔨🌟 [Software Craftmanship's manifesto](http://manifesto.softwarecraftsmanship.org/)
 
-#### A bit about me
-My name is Tien Do. I am currently working as a **Ruby on Rails software engineer**. **Ruby** is one of my first programming languages, and I feel **lucky** that I found it because its unique **freedom** and **expressive** syntax gets along with me so well (**thanks Matsumoto and all other phenomenal developers** who have spent lots of effort to develop this fantastic programming language)
+#### 🎭🎶🎧 A bit about me 🕵️‍♀️🔍🕵️‍♂️
+👋 My name is Tien Do. I am currently working as a **Ruby on Rails software engineer** 💻🛤️. **Ruby** is one of my first programming languages 🍀💻, and I feel **lucky** that I found it because its unique **freedom** and **expressive** syntax gets along with me so well 🤗💬 (**thanks Matsumoto and all other phenomenal developers** who have spent lots of effort to develop this fantastic programming language 🙏👨‍💻🌟)
 
 Ruby on Rails is **built on top of** Ruby, and I **enjoy** Ruby, so you can understand **how much I want Ruby on Rails**. 🤩
 
-### How I approach software engineer
+### 🤔💻🔨 How I approach software engineer
 As a software engineer, I believe in a 🔄 **constantly evolving** approach to learning and growth. I am committed to 🤔 **staying curious and open** to new technologies and techniques, always looking for ways to enhance my skills and understanding. When facing challenges or seeking advice, I 👥  **prioritize solutions that benefit my team and organization**. I am 🎉 passionate about writing code that is **simple, readable, and easy to maintain and modify**,🌱 understanding the importance of **sustainability and scalability**. Finally, I acknowledge that 🌊 **change is a constant in software engineering and in life**, and I am ready to adapt and evolve as needed to stay ahead of the curve.
 
-### My Skills
+### 📚🧑‍💻🎓 My Skills
 - **Quick learning, adapting** to new technologies, teams, and organizations 🚀
 - Proficient in **Ruby** and **familiar** with other programming languages such as Go, C, JavaScript, Rust... 💻
 - Strong **problem-solving** and **strategic thinking** skills 🤔💡
@@ -36,7 +36,7 @@ As a software engineer, I believe in a 🔄 **constantly evolving** approach to 
 - Familiarity with cloud platforms such as **AWS** ☁️ 
 - Strong **debugging** and **troubleshooting** skills 🔍🐞
 
-#### My Github Stats
+#### 📈📊👨‍💻  My Github Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=foreverLoveWisdom&theme=dracula)](https://git.io/streak-stats)
 &nbsp;
