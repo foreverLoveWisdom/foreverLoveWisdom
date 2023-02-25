@@ -51,8 +51,6 @@ My approach to software engineering is rooted in the principles of **game theory
 
 ![](https://komarev.com/ghpvc/?username=foreverLoveWisdom&color=green)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=foreverLoveWisdom&show_icons=true)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -121,3 +119,5 @@ Vim Script               1 repo              ░░░░░░░░░░░�
  > Do what you feel in your heart to be right – for you’ll be criticized anyway.
  
 [Exercism Profile](https://exercism.org/profiles/foreverLoveWisdom)
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
