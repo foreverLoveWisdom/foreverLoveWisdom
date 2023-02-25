@@ -26,7 +26,7 @@ My name is Tien Do. I am currently working as a **Ruby on Rails software enginee
 Ruby on Rails is **built on top of** Ruby, and I **enjoy** Ruby, so you can understand **how much I want Ruby on Rails**.
 
 ### How I approach software engineer
-My approach to software engineering is rooted in the principles of **game theory**. I believe that every problem can be viewed as a game, and that by understanding the underlying **strategies** and **dynamics** at play, we can come up with **innovative solutions**. I am always looking for ways to apply game theory to software development, whether it's **optimizing pricing strategies** or **improving the security** of a platform. I am not afraid to think **outside the box** and come up with **unconventional solutions**. I am a **quick learner**, **strategic thinker** and a **team player**.
+As a software engineer, I believe in a **constantly evolving** approach to learning and growth. I am committed to staying curious and open to new technologies and techniques, always looking for ways to enhance my skills and understanding. When facing challenges or seeking advice, I **prioritize solutions that benefit my team and organization**. I am passionate about writing code that is **simple, readable, and easy to maintain and modify**, understanding the importance of sustainability and scalability. Finally, I acknowledge that **change is a constant in software engineering and in life**, and I am ready to adapt and evolve as needed to stay ahead of the curve.
 
 ### My Skills
 - Proficient in **Ruby** and **familiar** with other programming languages such as Go, C, JavaScript, Rust...
