@@ -47,13 +47,13 @@ As a software engineer, I believe in a 🔄 **constantly evolving** approach to 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C695%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C701%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 291.5 kB Used in GitHub's Storage 
+> 📦 291.6 kB Used in GitHub's Storage 
  > 
 > 🏆 315 Contributions in the Year 2023
  > 
@@ -88,14 +88,14 @@ Sunday                   29 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Ruby                     24 hrs 18 mins      ███████████████░░░░░░░░░░   59.75 % 
-vimwiki                  10 hrs 38 mins      ███████░░░░░░░░░░░░░░░░░░   26.14 % 
-Haml                     2 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-Markdown                 1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-JavaScript               33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Ruby                     27 hrs 32 mins      █████████████████░░░░░░░░   66.60 % 
+vimwiki                  9 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
+Haml                     2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+Markdown                 1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+CSV                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 🔥 Editors: 
-Neovim                   40 hrs 41 mins      █████████████████████████   100.00 % 
+Neovim                   41 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -115,7 +115,7 @@ Vim Script               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/assets/bar_graph.png)
 
 
- Last Updated on 25/02/2023 20:06:57 UTC
+ Last Updated on 26/02/2023 00:28:14 UTC
 <!--END_SECTION:waka-->
 
 
