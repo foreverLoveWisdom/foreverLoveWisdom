@@ -47,7 +47,7 @@ As a software engineer, I believe in a 🔄 **constantly evolving** approach to 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C769%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C775%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -88,14 +88,14 @@ Sunday                   365 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-vimwiki                  19 hrs 37 mins      ██████████████████░░░░░░░   73.99 % 
-Ruby                     3 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-Haml                     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-Docker                   42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-Markdown                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+vimwiki                  17 hrs 5 mins       ███████████████░░░░░░░░░░   59.25 % 
+Ruby                     7 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   26.68 % 
+Haml                     1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+Docker                   42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Markdown                 30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 
 🔥 Editors: 
-Neovim                   26 hrs 32 mins      █████████████████████████   100.00 % 
+Neovim                   28 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -115,7 +115,7 @@ Vim Script               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/assets/bar_graph.png)
 
 
- Last Updated on 31/03/2023 20:09:11 UTC
+ Last Updated on 01/04/2023 00:26:19 UTC
 <!--END_SECTION:waka-->
 
 
