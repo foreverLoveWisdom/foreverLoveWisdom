@@ -47,7 +47,7 @@ As a software engineer, I believe in a 🔄 **constantly evolving** approach to 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C877%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C879%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -55,7 +55,7 @@ As a software engineer, I believe in a 🔄 **constantly evolving** approach to 
 
 > 📦 296.8 kB Used in GitHub's Storage 
  > 
-> 🏆 543 Contributions in the Year 2023
+> 🏆 544 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -88,24 +88,24 @@ Sunday                   478 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-ERB                      4 hrs 44 mins       ██████████░░░░░░░░░░░░░░░   41.81 % 
-vimwiki                  4 hrs 25 mins       ██████████░░░░░░░░░░░░░░░   39.08 % 
-Ruby                     1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-HTML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-JavaScript               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+vimwiki                  5 hrs 58 mins       ████████████░░░░░░░░░░░░░   46.36 % 
+ERB                      4 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   36.79 % 
+Ruby                     1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+HTML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+JavaScript               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 
 🔥 Editors: 
-Neovim                   11 hrs 19 mins      █████████████████████████   100.00 % 
+Neovim                   12 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Ruby** 
 
 ```text
-Ruby                     41 repos            █████████████████░░░░░░░░   66.13 % 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-Elixir                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Assembly                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-Vim Script               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Ruby                     41 repos            ████████████████░░░░░░░░░   65.08 % 
+JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+Elixir                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+Assembly                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Vim Script               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 ```
 
 
@@ -115,7 +115,7 @@ Vim Script               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/assets/bar_graph.png)
 
 
- Last Updated on 08/05/2023 00:25:09 UTC
+ Last Updated on 08/05/2023 04:09:46 UTC
 <!--END_SECTION:waka-->
 
 
