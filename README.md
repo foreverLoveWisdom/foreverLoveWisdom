@@ -47,7 +47,7 @@ As a software engineer, I believe in a 🔄 **constantly evolving** approach to 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C958%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C952%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -55,7 +55,7 @@ As a software engineer, I believe in a 🔄 **constantly evolving** approach to 
 
 > 📦 296.4 kB Used in GitHub's Storage 
  > 
-> 🏆 595 Contributions in the Year 2023
+> 🏆 596 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -103,11 +103,11 @@ RubyMine                 56 mins             █░░░░░░░░░░�
 **I Mostly Code in Ruby** 
 
 ```text
-Ruby                     43 repos            ████████████████░░░░░░░░░   65.15 % 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-Elixir                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-Assembly                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-Vim Script               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Ruby                     44 repos            ████████████████░░░░░░░░░   65.67 % 
+JavaScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+Elixir                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Assembly                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+Vim Script               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 ```
 
 
@@ -117,7 +117,7 @@ Vim Script               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/assets/bar_graph.png)
 
 
- Last Updated on 30/05/2023 16:11:19 UTC
+ Last Updated on 30/05/2023 20:10:53 UTC
 <!--END_SECTION:waka-->
 
 
