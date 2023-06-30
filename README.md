@@ -47,13 +47,13 @@ As a software engineer, I believe in a 🔄 **constantly evolving** approach to 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C049%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C052%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 297.5 kB Used in GitHub's Storage 
+> 📦 297.6 kB Used in GitHub's Storage 
  > 
 > 🏆 640 Contributions in the Year 2023
  > 
@@ -88,15 +88,14 @@ Sunday                   481 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Ruby                     9 hrs 50 mins       ██████████████████░░░░░░░   70.87 % 
-vimwiki                  4 hrs               ███████░░░░░░░░░░░░░░░░░░   28.89 % 
-gemfilelock              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Ruby                     10 hrs 33 mins      ██████████████████░░░░░░░   73.97 % 
+vimwiki                  3 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
+gemfilelock              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Neovim                   13 hrs 39 mins      █████████████████████████   98.29 % 
-VS Code                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-RubyMine                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Neovim                   14 hrs 3 mins       █████████████████████████   98.39 % 
+VS Code                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -116,7 +115,7 @@ Vim Script               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/assets/bar_graph.png)
 
 
- Last Updated on 29/06/2023 20:10:53 UTC
+ Last Updated on 30/06/2023 00:30:53 UTC
 <!--END_SECTION:waka-->
 
 
