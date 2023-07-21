@@ -47,7 +47,7 @@ As a software engineer, I believe in a 🔄 **constantly evolving** approach to 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C107%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C113%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -88,15 +88,15 @@ Sunday                   481 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Ruby                     25 hrs 3 mins       ███████████████████████░░   90.10 % 
-vimwiki                  1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
-YAML                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Ruby                     24 hrs 39 mins      ██████████████████████░░░   88.13 % 
+vimwiki                  2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+YAML                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 gemfilelock              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Vim Script               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-Neovim                   27 hrs 6 mins       ████████████████████████░   97.51 % 
-VS Code                  41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+Neovim                   27 hrs 18 mins      ████████████████████████░   97.61 % 
+VS Code                  40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -116,7 +116,7 @@ Vim Script               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/assets/bar_graph.png)
 
 
- Last Updated on 20/07/2023 20:11:14 UTC
+ Last Updated on 21/07/2023 00:28:56 UTC
 <!--END_SECTION:waka-->
 
 
