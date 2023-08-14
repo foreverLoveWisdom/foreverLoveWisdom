@@ -47,7 +47,7 @@ As a software engineer, I believe in a 🔄 **constantly evolving** approach to 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C166%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C171%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -88,14 +88,14 @@ Sunday                   482 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Ruby                     24 hrs 36 mins      ██████████████████████░░░   88.69 % 
-vimwiki                  2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-YAML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-gitignore                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Ruby                     25 hrs 38 mins      █████████████████████░░░░   85.38 % 
+vimwiki                  3 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+JSON                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+YAML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+gitignore                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 🔥 Editors: 
-Neovim                   27 hrs 44 mins      █████████████████████████   100.00 % 
+Neovim                   30 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -115,7 +115,7 @@ Vim Script               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2023 20:10:34 UTC
+ Last Updated on 14/08/2023 00:24:47 UTC
 <!--END_SECTION:waka-->
 
 
