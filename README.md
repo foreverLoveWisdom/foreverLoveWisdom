@@ -123,7 +123,7 @@ Vim Script               1 repo              ░░░░░░░░░░░�
 
 
 > There is no large codebase in any language that has zero accidental complexity. There are awkward bugfixes. There are workarounds. There are mitigations.
-> There are many many reasons why the code which is useful won't be pure and beautiful 💻🐞🤔
+> There are many many reasons why the useful code won't be pure and beautiful 💻🐞🤔
 
 > Changeability is the only design metric that matters; code that's easy to change is well-designed 🛠️🔄🎨
 
@@ -134,5 +134,5 @@ Vim Script               1 repo              ░░░░░░░░░░░�
  > Do what you feel in your heart to be right – for you’ll be criticized anyway 💖🙏🗣️ 
  
 [Exercism Profile](https://exercism.org/profiles/foreverLoveWisdom)
-
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=foreverLoveWisdom&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 ![Jokes Card](https://readme-jokes.vercel.app/api)
