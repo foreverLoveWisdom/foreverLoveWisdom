@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=foreverlovewisdom&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
+
 <img src="https://codecondo.com/wp-content/uploads/2017/09/railslogo.png" width="250" height="250">
 
  📜🔨🌟 [Software Craftmanship's manifesto](http://manifesto.softwarecraftsmanship.org/)
