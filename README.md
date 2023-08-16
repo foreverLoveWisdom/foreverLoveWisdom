@@ -39,6 +39,10 @@ As a software engineer, I believe in a 🔄 **constantly evolving** approach to 
 - Familiarity with cloud platforms such as **AWS** ☁️ 
 - Strong **debugging** and **troubleshooting** skills 🔍🐞
 
+
+### 📈🏆🧑‍💻 My Leetcode Stats
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=foreverLoveWisdom&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
 #### 📈📊👨‍💻  My Github Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=foreverLoveWisdom&theme=dracula)](https://git.io/streak-stats)
@@ -133,6 +137,4 @@ Vim Script               1 repo              ░░░░░░░░░░░�
  
  > Do what you feel in your heart to be right – for you’ll be criticized anyway 💖🙏🗣️ 
  
-[Exercism Profile](https://exercism.org/profiles/foreverLoveWisdom)
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=foreverLoveWisdom&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 ![Jokes Card](https://readme-jokes.vercel.app/api)
