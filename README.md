@@ -51,7 +51,7 @@ As a software engineer, I believe in a 🔄 **constantly evolving** approach to 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C412%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C421%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -92,16 +92,16 @@ Sunday                   482 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Ruby                     8 hrs 27 mins       ███████████████████░░░░░░   74.32 % 
-Slim                     1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-JavaScript               31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-Assembly                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-Bash                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Ruby                     13 hrs 50 mins      █████████████████████░░░░   82.05 % 
+Slim                     1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+Assembly                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Bash                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Image (png)              11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 
 🔥 Editors: 
-Neovim                   9 hrs 21 mins       █████████████████████░░░░   82.28 % 
-VS Code                  1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-RubyMine                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+Neovim                   14 hrs 51 mins      ██████████████████████░░░   88.13 % 
+VS Code                  1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+RubyMine                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -121,7 +121,7 @@ Vim Script               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/assets/bar_graph.png)
 
 
- Last Updated on 20/10/2023 20:13:23 UTC
+ Last Updated on 21/10/2023 00:26:33 UTC
 <!--END_SECTION:waka-->
 
 
