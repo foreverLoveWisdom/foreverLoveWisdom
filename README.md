@@ -30,7 +30,7 @@ As a software engineer, I believe in a 🔄 **constantly evolving** approach to 
 
 ### 📚🧑‍💻🎓 My Skills
 - **Quick learning, adapting** to new technologies, teams, and organizations 🚀
-- Proficient in **Ruby** and **familiar** with other programming languages such as Elixir/Phoenix Go, C, JavaScript, Rust... 💻
+- Proficient in **Ruby** and **familiar** with other programming languages such as Elixir/Phoenix Go, C, JavaScript, Python, Haskell, Rust... 💻
 - Strong **problem-solving** and **strategic thinking** skills 🤔💡
 - Experience with software architectures such as **microservices, modular monolith, domain driven designs** 🏗️
 - Familiarity with cloud platforms such as **AWS** ☁️ 
