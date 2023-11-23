@@ -51,15 +51,15 @@ As a software engineer, I believe in a 🔄 **constantly evolving** approach to 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C544%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C545%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 303.0 kB Used in GitHub's Storage 
+> 📦 303.1 kB Used in GitHub's Storage 
  > 
-> 🏆 964 Contributions in the Year 2023
+> 🏆 966 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -70,21 +70,21 @@ As a software engineer, I believe in a 🔄 **constantly evolving** approach to 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                787 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-🌆 Daytime                2012 commits        ███████████░░░░░░░░░░░░░░   42.22 % 
-🌃 Evening                1636 commits        █████████░░░░░░░░░░░░░░░░   34.33 % 
-🌙 Night                  330 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+🌞 Morning                761 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+🌆 Daytime                1932 commits        ██████████░░░░░░░░░░░░░░░   41.50 % 
+🌃 Evening                1632 commits        █████████░░░░░░░░░░░░░░░░   35.06 % 
+🌙 Night                  330 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   645 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-Tuesday                  1135 commits        ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
-Wednesday                617 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-Thursday                 459 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-Friday                   774 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-Saturday                 628 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-Sunday                   507 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+Monday                   621 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+Tuesday                  1109 commits        ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
+Wednesday                601 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+Thursday                 433 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+Friday                   758 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+Saturday                 628 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Sunday                   505 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
 ```
 
 
@@ -121,7 +121,7 @@ Vim Script               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/assets/bar_graph.png)
 
 
- Last Updated on 23/11/2023 12:16:48 UTC
+ Last Updated on 23/11/2023 16:14:04 UTC
 <!--END_SECTION:waka-->
 
 
