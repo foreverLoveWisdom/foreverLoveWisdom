@@ -51,15 +51,13 @@ As a software engineer, I believe in a 🔄 **constantly evolving** approach to 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C804%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C807%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 312.6 kB Used in GitHub's Storage 
- > 
-> 🏆 380 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -92,14 +90,14 @@ Sunday                   573 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Ruby                     5 hrs 30 mins       ██████████████████░░░░░░░   71.68 % 
-YAML                     46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-vimwiki                  35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
-Bash                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-gitignore                12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+Ruby                     7 hrs 59 mins       ███████████████████░░░░░░   74.21 % 
+YAML                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+Bash                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+vimwiki                  33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+Other                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
 
 🔥 Editors: 
-Neovim                   7 hrs 40 mins       █████████████████████████   100.00 % 
+Neovim                   10 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -119,7 +117,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/assets/bar_graph.png)
 
 
- Last Updated on 08/05/2024 20:14:33 UTC
+ Last Updated on 09/05/2024 00:31:30 UTC
 <!--END_SECTION:waka-->
 
 
