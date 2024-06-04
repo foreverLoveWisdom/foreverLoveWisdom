@@ -51,15 +51,13 @@ As a software engineer, I believe in a 🔄 **constantly evolving** approach to 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C871%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C875%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 313.2 kB Used in GitHub's Storage 
- > 
-> 🏆 432 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -92,13 +90,14 @@ Sunday                   574 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Ruby                     20 hrs 25 mins      █████████████████████████   99.17 % 
-YAML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-vimwiki                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Ruby                     16 hrs 18 mins      ████████████████████████░   95.27 % 
+YAML                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+Slim                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+vimwiki                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Vim Script               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 🔥 Editors: 
-Neovim                   20 hrs 36 mins      █████████████████████████   100.00 % 
+Neovim                   17 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -118,7 +117,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/assets/bar_graph.png)
 
 
- Last Updated on 03/06/2024 20:14:15 UTC
+ Last Updated on 04/06/2024 00:30:26 UTC
 <!--END_SECTION:waka-->
 
 
