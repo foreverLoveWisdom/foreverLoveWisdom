@@ -21,12 +21,12 @@ Here are some ideas to get you started:
  📜🔨🌟 [Software Craftmanship's manifesto](http://manifesto.softwarecraftsmanship.org/)
 
 ### 🎭🎶🎧 A bit about me 🕵️‍♀️🔍🕵️‍♂️
-👋 My name is Tien Do. I am currently working as a **Ruby on Rails software engineer** 💻🛤️. **Ruby** is one of my first programming languages 🍀💻, and I feel **lucky** that I found it because its unique **freedom** and **expressive** syntax gets along with me so well 🤗💬 (**thanks Matsumoto and all other phenomenal developers** who have spent lots of effort to develop this fantastic programming language 🙏👨‍💻🌟)
+👋 My name is Tien Do. I work as a Ruby on Rails software engineer 💻🛤️. Ruby is among my first programming languages 🍀💻, and I feel fortunate to have found it for its unique freedom and expressive syntax 🤗💬. Thanks to Matsumoto and all developers who crafted this fantastic language 🙏👨‍💻🌟.
 
-Ruby on Rails is **built on top of** Ruby, and I **enjoy** Ruby, so you can understand **how much I want Ruby on Rails**. 🤩
+Ruby on Rails builds upon Ruby, and my enjoyment of Ruby underscores my passion for Ruby on Rails 🤩.
 
 ### 🤔💻🔨 How I approach software engineer
-As a software engineer, I believe in a 🔄 **constantly evolving** approach to learning and growth. I am committed to 🤔 **staying curious and open** to new technologies and techniques, always looking for ways to enhance my skills and understanding. When facing challenges or seeking advice, I 👥  **prioritize solutions that benefit my team and organization**. I am 🎉 passionate about writing code that is **simple, readable, and easy to maintain and modify**, understanding the importance of 🌱 **sustainability and scalability**. Finally, I acknowledge that 🌊 **change is a constant in software engineering and in life**, and I am ready to **adapt** and **evolve** as needed to stay ahead of the curve 🏃‍♂️📈🔄
+As a software engineer, I embrace a 🔄 continuously evolving approach to learning and growth. I'm dedicated to 🤔 maintaining curiosity and openness towards new technologies and techniques, always seeking ways to improve my skills and knowledge. When tackling challenges or seeking advice, I prioritize solutions that benefit my team and organization 👥. I am 🎉 passionate about crafting code that is simple, readable, and easy to maintain and update, recognizing the importance of 🌱 sustainability and scalability. Moreover, I understand that 🌊 change is constant in both software engineering and life, and I'm prepared to adapt and evolve to stay ahead 🏃‍♂️📈🔄.
 
 ### 📚🧑‍💻🎓 My Skills
 - **Quick learning, adapting** to new technologies, teams, and organizations 🚀
