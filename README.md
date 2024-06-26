@@ -51,7 +51,7 @@ As a software engineer, I embrace a 🔄 `continuously evolving approach` to lea
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C959%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C972%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -92,16 +92,16 @@ Sunday                   536 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    18 hrs 50 mins      ██████████████████░░░░░░░   72.58 % 
-JavaScript               1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
-Ruby                     1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
-TypeScript               52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-Haskell                  44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+Other                    17 hrs 44 mins      ███████████████░░░░░░░░░░   61.95 % 
+Ruby                     6 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
+JavaScript               1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+Haskell                  44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+vimwiki                  39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 
 🔥 Editors: 
-Firefox                  18 hrs 49 mins      ██████████████████░░░░░░░   72.52 % 
-VS Code                  4 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
-Neovim                   2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+Firefox                  17 hrs 43 mins      ███████████████░░░░░░░░░░   61.92 % 
+Neovim                   6 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
+VS Code                  4 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -121,7 +121,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/assets/bar_graph.png)
 
 
- Last Updated on 25/06/2024 20:14:05 UTC
+ Last Updated on 26/06/2024 00:30:35 UTC
 <!--END_SECTION:waka-->
 
 
