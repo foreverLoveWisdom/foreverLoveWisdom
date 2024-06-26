@@ -51,15 +51,13 @@ As a software engineer, I embrace a 🔄 `continuously evolving approach` to lea
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C974%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C974%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 315.3 kB Used in GitHub's Storage 
- > 
-> 🏆 559 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -70,21 +68,21 @@ As a software engineer, I embrace a 🔄 `continuously evolving approach` to lea
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                978 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-🌆 Daytime                2526 commits        ███████████░░░░░░░░░░░░░░   44.04 % 
-🌃 Evening                1855 commits        ████████░░░░░░░░░░░░░░░░░   32.34 % 
-🌙 Night                  377 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+🌞 Morning                994 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+🌆 Daytime                2546 commits        ███████████░░░░░░░░░░░░░░   44.08 % 
+🌃 Evening                1859 commits        ████████░░░░░░░░░░░░░░░░░   32.18 % 
+🌙 Night                  377 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   832 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-Tuesday                  1241 commits        █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
-Wednesday                712 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-Thursday                 727 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-Friday                   972 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
-Saturday                 716 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-Sunday                   536 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+Monday                   838 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+Tuesday                  1247 commits        █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
+Wednesday                714 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+Thursday                 741 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+Friday                   984 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+Saturday                 716 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+Sunday                   536 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
 ```
 
 
@@ -121,7 +119,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/assets/bar_graph.png)
 
 
- Last Updated on 26/06/2024 12:18:48 UTC
+ Last Updated on 26/06/2024 16:14:14 UTC
 <!--END_SECTION:waka-->
 
 
