@@ -51,15 +51,13 @@ As a software engineer, I embrace a 🔄 `continuously evolving approach` to lea
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C992%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C994%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 315.5 kB Used in GitHub's Storage 
- > 
-> 🏆 564 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -92,13 +90,15 @@ Sunday                   539 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    2 hrs 38 mins       ███████████████████████░░   92.09 % 
-Ruby                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-vimwiki                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+Other                    2 hrs 6 mins        ██████████████████████░░░   89.03 % 
+Ruby                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+vimwiki                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+Slim                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 
 🔥 Editors: 
-Firefox                  2 hrs 38 mins       ███████████████████████░░   92.09 % 
-Neovim                   13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+Firefox                  2 hrs 5 mins        ██████████████████████░░░   88.28 % 
+Neovim                   16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -118,7 +118,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/assets/bar_graph.png)
 
 
- Last Updated on 10/07/2024 20:14:42 UTC
+ Last Updated on 11/07/2024 00:31:48 UTC
 <!--END_SECTION:waka-->
 
 
