@@ -51,13 +51,15 @@ As a software engineer, I embrace a 🔄 `continuously evolving approach` to lea
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C996%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C000%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 316.1 kB Used in GitHub's Storage 
+> 📦 316.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 565 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -90,16 +92,16 @@ Sunday                   540 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    3 hrs 34 mins       ██████████████████████░░░   88.91 % 
-vimwiki                  15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-Ruby                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-Slim                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-Haskell                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Other                    7 hrs 14 mins       ███████████████████████░░   92.86 % 
+vimwiki                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+Ruby                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Slim                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 🔥 Editors: 
-Firefox                  3 hrs 33 mins       ██████████████████████░░░   88.43 % 
-Neovim                   26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Firefox                  7 hrs 5 mins        ███████████████████████░░   90.97 % 
+Neovim                   40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -119,7 +121,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/assets/bar_graph.png)
 
 
- Last Updated on 12/07/2024 20:15:14 UTC
+ Last Updated on 13/07/2024 00:31:53 UTC
 <!--END_SECTION:waka-->
 
 
