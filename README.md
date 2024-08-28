@@ -51,7 +51,7 @@ As a software engineer, I embrace a 🔄 `continuously evolving approach` to lea
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C184%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C188%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -92,16 +92,16 @@ Sunday                   581 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    23 hrs 10 mins      ██████████████░░░░░░░░░░░   57.08 % 
-Ruby                     9 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
-Go                       3 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-vimwiki                  3 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-YAML                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Other                    21 hrs 2 mins       ██████████████░░░░░░░░░░░   56.04 % 
+Ruby                     7 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
+Go                       4 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+vimwiki                  3 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+YAML                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 
 🔥 Editors: 
-Firefox                  23 hrs 7 mins       ██████████████░░░░░░░░░░░   56.98 % 
-Neovim                   14 hrs 9 mins       █████████░░░░░░░░░░░░░░░░   34.88 % 
-VS Code                  3 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+Firefox                  21 hrs 1 min        ██████████████░░░░░░░░░░░   56.00 % 
+Neovim                   12 hrs 25 mins      ████████░░░░░░░░░░░░░░░░░   33.12 % 
+VS Code                  4 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -121,7 +121,7 @@ Scala                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/assets/bar_graph.png)
 
 
- Last Updated on 27/08/2024 20:15:12 UTC
+ Last Updated on 28/08/2024 00:34:33 UTC
 <!--END_SECTION:waka-->
 
 
