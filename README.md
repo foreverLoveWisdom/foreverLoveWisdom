@@ -51,15 +51,13 @@ As a software engineer, I embrace a 🔄 `continuously evolving approach` to lea
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C188%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C191%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 313.3 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -92,16 +90,16 @@ Sunday                   581 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    21 hrs 2 mins       ██████████████░░░░░░░░░░░   56.04 % 
-Ruby                     7 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
-Go                       4 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-vimwiki                  3 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-YAML                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Other                    19 hrs 51 mins      ███████████████░░░░░░░░░░   60.82 % 
+Ruby                     6 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
+vimwiki                  3 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+Go                       2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+YAML                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 🔥 Editors: 
-Firefox                  21 hrs 1 min        ██████████████░░░░░░░░░░░   56.00 % 
-Neovim                   12 hrs 25 mins      ████████░░░░░░░░░░░░░░░░░   33.12 % 
-VS Code                  4 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+Firefox                  19 hrs 51 mins      ███████████████░░░░░░░░░░   60.78 % 
+Neovim                   9 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   30.28 % 
+VS Code                  2 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -121,7 +119,7 @@ Scala                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2024 20:14:47 UTC
+ Last Updated on 29/08/2024 00:33:48 UTC
 <!--END_SECTION:waka-->
 
 
