@@ -38,7 +38,7 @@ As a software engineer, I embrace a 🔄 `continuously evolving approach` to lea
 
 
 ### 📈🏆🧑‍💻 My Leetcode Stats
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=foreverLoveWisdom&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+![Leetcode Stats](https://leetcard.jacoblin.cool/foreverLoveWisdom)
 
 #### 📈📊👨‍💻  My Github Stats
 
