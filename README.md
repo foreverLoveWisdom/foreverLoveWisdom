@@ -51,7 +51,7 @@ As a software engineer, I embrace a 🔄 `continuously evolving approach` to lea
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C287%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C291%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -92,16 +92,16 @@ Sunday                   590 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    7 hrs 6 mins        ████████████████░░░░░░░░░   63.34 % 
-Go                       3 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   27.03 % 
-vimwiki                  54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Other                    9 hrs 41 mins       ████████████████░░░░░░░░░   62.77 % 
+Go                       4 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   28.90 % 
+vimwiki                  56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 🔥 Editors: 
-Firefox                  7 hrs 6 mins        ████████████████░░░░░░░░░   63.34 % 
-Neovim                   3 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   27.45 % 
-VS Code                  1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+Firefox                  9 hrs 41 mins       ████████████████░░░░░░░░░   62.77 % 
+Neovim                   4 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   27.38 % 
+VS Code                  1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -121,7 +121,7 @@ Haskell                  2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2024 20:12:13 UTC
+ Last Updated on 21/09/2024 00:31:07 UTC
 <!--END_SECTION:waka-->
 
 
