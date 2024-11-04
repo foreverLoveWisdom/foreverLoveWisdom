@@ -51,6 +51,8 @@ As a software engineer, I embrace a 🔄 `continuously evolving approach` to lea
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C319%20hrs%2048%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -65,6 +67,37 @@ As a software engineer, I embrace a 🔄 `continuously evolving approach` to lea
  > 
 > 🔑 12 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                785 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+🌆 Daytime                1859 commits        █████████░░░░░░░░░░░░░░░░   36.88 % 
+🌃 Evening                1949 commits        ██████████░░░░░░░░░░░░░░░   38.66 % 
+🌙 Night                  448 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   656 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+Tuesday                  1042 commits        █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
+Wednesday                629 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+Thursday                 437 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+Friday                   805 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+Saturday                 845 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+Sunday                   627 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Ruby** 
 
 ```text
@@ -82,7 +115,7 @@ Haskell                  2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/assets/bar_graph.png)
 
 
- Last Updated on 03/11/2024 20:10:46 UTC
+ Last Updated on 04/11/2024 00:33:17 UTC
 <!--END_SECTION:waka-->
 
 
