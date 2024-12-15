@@ -30,9 +30,9 @@ As a software engineer, I embrace a 🔄 `continuously evolving approach` to lea
 
 ### 📚🧑‍💻🎓 My Skills
 - **Quick learning, adapting** to new technologies, teams, and organizations 🚀
-- Proficient in **Ruby** and **familiar** with other programming languages such as Elixir, Go, C, JavaScript, Python, Haskell, Rust... 💻
+- Proficient in **Ruby** and **familiar** with other programming languages such as Python, Go, Haskell, JavaScript... 💻
 - Strong **problem-solving** and **strategic thinking** skills 🤔💡
-- Experience with software architectures such as **microservices, modular monolith, domain driven designs** 🏗️
+- Experience with software architectures such as **microservices**, **distributed system** 🏗️
 - Familiarity with cloud platforms such as **AWS** ☁️ 
 - Strong **debugging** and **troubleshooting** skills 🔍🐞
 
