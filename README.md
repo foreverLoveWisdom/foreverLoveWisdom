@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 Ruby on Rails builds upon Ruby, and `my enjoyment of Ruby underscores my passion for Ruby on Rails` 🤩.
 
 ### 🤔💻🔨 How I approach software engineer
-As a software engineer, I embrace a 🔄 `continuously evolving approach` to learning and growth. I'm dedicated to 🤔 maintaining `curiosity` and `openness` towards new technologies and techniques, always `seeking ways to improve my skills and knowledge`. When tackling challenges or seeking advice, I `prioritize solutions that benefit my team and organization` 👥. I am 🎉 passionate about crafting code that is `simple, readable, and easy to maintain and update`, recognizing the importance of 🌱 sustainability and scalability. Moreover, I understand that 🌊 `change is constant` in both software engineering and life, and I'm `prepared to adapt and evolve` to stay ahead 🏃‍♂️📈🔄.
+As a software engineer, I embrace a 🔄 `continuously evolving approach` to learning and growth. I'm dedicated to 🤔 maintaining `curiosity` and `openness` towards new technologies and techniques, always `seeking ways to improve my skills and knowledge`. When tackling challenges or seeking advice, I `prioritize solutions that benefit my team and organization` 👥. I am 🎉 passionate about crafting code that is `readable, scalable, and maintainable`. Moreover, I understand that 🌊 `change is constant` in both software engineering and life, and I'm `prepared to adapt and evolve` to stay ahead 🏃‍♂️📈🔄.
 
 ### 📚🧑‍💻🎓 My Skills
 - **Quick learning, adapting** to new technologies, teams, and organizations 🚀
