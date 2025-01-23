@@ -51,15 +51,13 @@ As a software engineer, I embrace a 🔄 `continuously evolving approach` to lea
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C327%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C327%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 321.0 kB Used in GitHub's Storage 
- > 
-> 🏆 4 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -92,10 +90,13 @@ Sunday                   657 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    10 mins             ██████████████████████░░░   86.39 % 
+Go                       1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Firefox                  10 mins             ██████████████████████░░░   86.39 % 
+VS Code                  1 min               ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -115,7 +116,7 @@ Haskell                  3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/assets/bar_graph.png)
 
 
- Last Updated on 22/01/2025 20:11:38 UTC
+ Last Updated on 23/01/2025 00:31:48 UTC
 <!--END_SECTION:waka-->
 
 
