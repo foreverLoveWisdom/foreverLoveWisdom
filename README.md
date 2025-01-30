@@ -92,13 +92,10 @@ Sunday                   661 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    10 mins             ██████████████████████░░░   86.39 % 
-Go                       1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Firefox                  10 mins             ██████████████████████░░░   86.39 % 
-VS Code                  1 min               ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Ruby** 
@@ -118,7 +115,7 @@ Haskell                  3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/assets/bar_graph.png)
 
 
- Last Updated on 29/01/2025 20:11:45 UTC
+ Last Updated on 30/01/2025 00:31:15 UTC
 <!--END_SECTION:waka-->
 
 
