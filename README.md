@@ -51,7 +51,7 @@ As a software engineer, I embrace a 🔄 `continuously evolving approach` to lea
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C545%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C549%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -92,15 +92,15 @@ Sunday                   809 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    21 hrs 59 mins      █████████████████░░░░░░░░   69.83 % 
-Ruby                     5 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-Markdown                 1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-sh                       56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-Bash                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Other                    20 hrs 22 mins      █████████████████░░░░░░░░   68.13 % 
+Ruby                     4 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+Markdown                 1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+sh                       59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Bash                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 
 🔥 Editors: 
-Firefox                  21 hrs 45 mins      █████████████████░░░░░░░░   69.04 % 
-Neovim                   9 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   30.96 % 
+Firefox                  20 hrs 7 mins       █████████████████░░░░░░░░   67.30 % 
+Neovim                   9 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   32.70 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -120,7 +120,7 @@ C                        3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2025 20:13:42 UTC
+ Last Updated on 06/08/2025 01:14:41 UTC
 <!--END_SECTION:waka-->
 
 
