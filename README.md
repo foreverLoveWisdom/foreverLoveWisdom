@@ -57,7 +57,9 @@ As a software engineer, I embrace a 🔄 `continuously evolving approach` to lea
 
 **🐱 My GitHub Data** 
 
-> 📦 350.1 kB Used in GitHub's Storage 
+> 📦 352.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 168 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -118,7 +120,7 @@ C                        3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2025 08:16:45 UTC
+ Last Updated on 21/08/2025 12:17:51 UTC
 <!--END_SECTION:waka-->
 
 
