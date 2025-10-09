@@ -51,7 +51,7 @@ As a software engineer, I embrace a 🔄 `continuously evolving approach` to lea
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C592%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C594%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -92,10 +92,12 @@ Sunday                   820 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    1 hr 25 mins        ██████████████████░░░░░░░   70.59 % 
+Ruby                     35 mins             ███████░░░░░░░░░░░░░░░░░░   29.41 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Firefox                  1 hr 25 mins        ██████████████████░░░░░░░   70.59 % 
+Neovim                   35 mins             ███████░░░░░░░░░░░░░░░░░░   29.41 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -115,7 +117,7 @@ C                        3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2025 20:13:39 UTC
+ Last Updated on 09/10/2025 00:38:10 UTC
 <!--END_SECTION:waka-->
 
 
