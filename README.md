@@ -51,6 +51,8 @@ As a software engineer, I embrace a 🔄 `continuously evolving approach` to lea
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C599%20hrs%2047%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -90,13 +92,13 @@ Sunday                   820 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    6 hrs 46 mins       ███████████████████████░░   91.53 % 
-Ruby                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+Other                    5 hrs 21 mins       █████████████████████████   99.39 % 
+Ruby                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 gitrebase                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Firefox                  6 hrs 46 mins       ███████████████████████░░   91.53 % 
-Neovim                   37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+Firefox                  5 hrs 21 mins       █████████████████████████   99.39 % 
+Neovim                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -116,7 +118,7 @@ C                        3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2025 20:14:41 UTC
+ Last Updated on 16/10/2025 00:37:05 UTC
 <!--END_SECTION:waka-->
 
 
