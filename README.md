@@ -51,7 +51,7 @@ As a software engineer, I embrace a 🔄 `continuously evolving approach` to lea
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C707%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C709%20hrs%2022%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -92,16 +92,16 @@ Sunday                   820 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    7 hrs 9 mins        █████████████░░░░░░░░░░░░   50.57 % 
-Markdown                 5 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   41.87 % 
-Ruby                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-conf                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Other                    7 hrs 49 mins       █████████████░░░░░░░░░░░░   53.42 % 
+Markdown                 5 hrs 44 mins       ██████████░░░░░░░░░░░░░░░   39.27 % 
+Ruby                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+conf                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 🔥 Editors: 
-Neovim                   7 hrs 40 mins       ██████████████░░░░░░░░░░░   54.15 % 
-Firefox                  6 hrs 13 mins       ███████████░░░░░░░░░░░░░░   43.88 % 
-Vim                      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Neovim                   7 hrs 35 mins       █████████████░░░░░░░░░░░░   51.86 % 
+Firefox                  6 hrs 52 mins       ████████████░░░░░░░░░░░░░   46.95 % 
+Vim                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -121,7 +121,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/assets/bar_graph.png)
 
 
- Last Updated on 08/04/2026 20:24:46 UTC
+ Last Updated on 09/04/2026 00:46:55 UTC
 <!--END_SECTION:waka-->
 
 
