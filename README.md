@@ -51,7 +51,7 @@ As a software engineer, I embrace a 🔄 `continuously evolving approach` to lea
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C738%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C740%20hrs%2035%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -67,43 +67,6 @@ As a software engineer, I embrace a 🔄 `continuously evolving approach` to lea
  > 
 > 🔑 19 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1175 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
-🌆 Daytime                2211 commits        ████████░░░░░░░░░░░░░░░░░   33.70 % 
-🌃 Evening                2585 commits        ██████████░░░░░░░░░░░░░░░   39.40 % 
-🌙 Night                  590 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   687 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-Tuesday                  1650 commits        ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
-Wednesday                895 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-Thursday                 514 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
-Friday                   847 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-Saturday                 1148 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-Sunday                   820 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    10 hrs 8 mins       ███████████████░░░░░░░░░░   59.97 % 
-Markdown                 3 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
-Ruby                     1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-Bash                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
-YAML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
-
-🔥 Editors: 
-Firefox                  10 hrs 6 mins       ███████████████░░░░░░░░░░   59.83 % 
-Neovim                   4 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   26.32 % 
-Unknown Editor           2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-```
-
 **I Mostly Code in Ruby** 
 
 ```text
@@ -121,7 +84,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/assets/bar_graph.png)
 
 
- Last Updated on 23/04/2026 20:32:38 UTC
+ Last Updated on 24/04/2026 01:03:00 UTC
 <!--END_SECTION:waka-->
 
 
