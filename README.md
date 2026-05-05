@@ -51,7 +51,7 @@ As a software engineer, I embrace a 🔄 `continuously evolving approach` to lea
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C745%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C748%20hrs%2046%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -92,15 +92,16 @@ Sunday                   820 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    2 hrs 44 mins       █████████████░░░░░░░░░░░░   51.39 % 
-Markdown                 1 hr 31 mins        ███████░░░░░░░░░░░░░░░░░░   28.44 % 
-Ruby                     59 mins             █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
-YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Other                    2 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   36.54 % 
+Ruby                     2 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   31.39 % 
+Markdown                 2 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   28.53 % 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 
 🔥 Editors: 
-Firefox                  2 hrs 25 mins       ███████████░░░░░░░░░░░░░░   45.45 % 
-Unknown Editor           2 hrs 24 mins       ███████████░░░░░░░░░░░░░░   45.04 % 
-Neovim                   30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+Unknown Editor           4 hrs 28 mins       ██████████████░░░░░░░░░░░   54.68 % 
+Firefox                  2 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   31.98 % 
+Neovim                   1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -120,7 +121,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/assets/bar_graph.png)
 
 
- Last Updated on 04/05/2026 20:41:27 UTC
+ Last Updated on 05/05/2026 01:27:25 UTC
 <!--END_SECTION:waka-->
 
 
