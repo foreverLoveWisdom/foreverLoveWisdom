@@ -51,7 +51,7 @@ As a software engineer, I embrace a 🔄 `continuously evolving approach` to lea
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C822%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C825%20hrs%2013%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -92,13 +92,15 @@ Sunday                   820 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 32 mins        █████████████░░░░░░░░░░░░   50.35 % 
-Ruby                     1 hr 29 mins        ████████████░░░░░░░░░░░░░   48.84 % 
-Java Properties          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Markdown                 1 hr 32 mins        ████████████░░░░░░░░░░░░░   49.98 % 
+Ruby                     1 hr 13 mins        ██████████░░░░░░░░░░░░░░░   40.03 % 
+Bash                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 58 mins       ████████████████████████░   97.40 % 
-Neovim                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+Neovim                   2 hrs 50 mins       ███████████████████████░░   92.40 % 
+Claude Code              14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -118,7 +120,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/assets/bar_graph.png)
 
 
- Last Updated on 17/06/2026 17:15:19 UTC
+ Last Updated on 17/06/2026 20:56:04 UTC
 <!--END_SECTION:waka-->
 
 
