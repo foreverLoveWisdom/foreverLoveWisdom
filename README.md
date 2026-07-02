@@ -92,14 +92,12 @@ Sunday                   820 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Ruby                     58 mins             ████████████░░░░░░░░░░░░░   49.37 % 
-Markdown                 55 mins             ████████████░░░░░░░░░░░░░   46.43 % 
-YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Markdown                 33 mins             ███████████████████░░░░░░   75.39 % 
+Ruby                     10 mins             ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🔥 Editors: 
-Neovim                   1 hr 58 mins        █████████████████████████   100.00 % 
+Neovim                   45 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -119,7 +117,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/assets/bar_graph.png)
 
 
- Last Updated on 02/07/2026 18:03:10 UTC
+ Last Updated on 02/07/2026 21:21:00 UTC
 <!--END_SECTION:waka-->
 
 
