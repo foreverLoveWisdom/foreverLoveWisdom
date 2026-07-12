@@ -92,15 +92,15 @@ Sunday                   820 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 9 hrs 48 mins       ███████████████████░░░░░░   77.07 % 
-Ruby                     2 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
-Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Markdown                 8 hrs 54 mins       ███████████████████░░░░░░   75.41 % 
+Ruby                     2 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
+Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+conf                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Claude Code              10 hrs 36 mins      █████████████████████░░░░   83.40 % 
-Neovim                   2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+Claude Code              9 hrs 41 mins       █████████████████████░░░░   82.11 % 
+Neovim                   2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -120,7 +120,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/assets/bar_graph.png)
 
 
- Last Updated on 12/07/2026 17:11:49 UTC
+ Last Updated on 12/07/2026 21:04:34 UTC
 <!--END_SECTION:waka-->
 
 
