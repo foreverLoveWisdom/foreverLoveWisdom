@@ -51,7 +51,9 @@ As a software engineer, I embrace a 🔄 `continuously evolving approach` to lea
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C904%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C250%20hrs%201%20min-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-153%20hrs%2035%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -103,6 +105,28 @@ Claude Code              12 hrs 48 mins      ███████████�
 Neovim                   1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 13 hrs 53 mins (93.98%)
+
+✍️ 2,439 lines written by AI, 479 lines written by hand (83.58% AI-written)
+
+🔤 107,160,208 Input Tokens, 749,875 Output Tokens
+
+💵 $332.73 Estimated AI Cost This Week
+
+🧠 30 AI Sessions, 358 AI Prompts
+
+Claude                   2,785 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 83.58% of written lines came from AI
+📚 Verbose Prompter — average 2,184 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 19.28% of changed lines were hand-edited
+```
+
 **I Mostly Code in Ruby** 
 
 ```text
@@ -120,7 +144,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 14:55:07 UTC
+ Last Updated on 27/07/2026 17:53:13 UTC
 <!--END_SECTION:waka-->
 
 
