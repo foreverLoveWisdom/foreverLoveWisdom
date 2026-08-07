@@ -51,10 +51,6 @@ As a software engineer, I embrace a 🔄 `continuously evolving approach` to lea
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverLoveWisdom&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C275%20hrs%2024%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-177%20hrs%2039%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -69,64 +65,6 @@ As a software engineer, I embrace a 🔄 `continuously evolving approach` to lea
  > 
 > 🔑 19 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1175 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
-🌆 Daytime                2205 commits        ████████░░░░░░░░░░░░░░░░░   33.64 % 
-🌃 Evening                2585 commits        ██████████░░░░░░░░░░░░░░░   39.44 % 
-🌙 Night                  590 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   683 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-Tuesday                  1648 commits        ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
-Wednesday                895 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-Thursday                 514 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-Friday                   847 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-Saturday                 1148 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
-Sunday                   820 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 13 hrs 5 mins       ████████████████████████░   97.58 % 
-Ruby                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-
-🔥 Editors: 
-Claude Code              12 hrs 33 mins      ███████████████████████░░   93.61 % 
-Neovim                   51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 12 hrs 54 mins (96.12%)
-
-✍️ 2,975 lines written by AI, 1,331 lines written by hand (69.09% AI-written)
-
-🔤 119,705,755 Input Tokens, 517,798 Output Tokens
-
-💵 $370.89 Estimated AI Cost This Week
-
-🧠 25 AI Sessions, 358 AI Prompts
-
-Claude                   3,118 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 69.09% of written lines came from AI
-📚 Verbose Prompter — average 2,189 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
-🚀 High AI Trust — 29.92% of changed lines were hand-edited
-```
-
 **I Mostly Code in Ruby** 
 
 ```text
@@ -144,7 +82,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/assets/bar_graph.png)
 
 
- Last Updated on 06/08/2026 14:31:48 UTC
+ Last Updated on 07/08/2026 00:58:59 UTC
 <!--END_SECTION:waka-->
 
 
