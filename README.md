@@ -24,7 +24,11 @@ when to stop, and just as importantly, what not to build.
 <sub><i>Sinh ra rồi cũng sẽ tàn,<br>
 Công danh như bọt trên ngàn sóng xa.<br>
 Thân này gá tạm phù hoa,<br>
-Trăm năm rồi cũng hoá ra hư không.</i></sub>
+Trăm năm rồi cũng hoá ra hư không.<br><br>
+Nguyên tắc như một chuyến đò,<br>
+Qua sông rồi bỏ, ai đo bến bờ.<br>
+Ôm khư một mối tôn thờ,<br>
+Tay đâu mà mở lối chờ người sau.</i></sub>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C317%20hrs%2020%20mins-blue?style=flat)
