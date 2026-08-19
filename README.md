@@ -9,9 +9,9 @@ Software engineer.
 - Evidence over opinion
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C312%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C317%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-213%20hrs%2013%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-218%20hrs%201%20min-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -52,38 +52,38 @@ Sunday                   820 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 18 hrs 28 mins      █████████████████████░░░░   82.20 % 
-Ruby                     2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-YAML                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-HTML                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Markdown                 17 hrs 6 mins       ██████████████████░░░░░░░   73.52 % 
+Ruby                     2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+Elm                      1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+YAML                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+HTML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 
 🔥 Editors: 
-Claude Code              20 hrs 8 mins       ██████████████████████░░░   89.61 % 
-Neovim                   2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+Claude Code              21 hrs 33 mins      ███████████████████████░░   92.64 % 
+Neovim                   1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 46 mins (96.9%)
+⏱ AI Coding Time: 22 hrs 41 mins (97.5%)
 
-✍️ 7,875 lines written by AI, 27 lines written by hand (99.66% AI-written)
+✍️ 8,356 lines written by AI, 269 lines written by hand (96.88% AI-written)
 
-🔤 240,722,168 Input Tokens, 835,313 Output Tokens
+🔤 276,887,027 Input Tokens, 865,799 Output Tokens
 
-💵 $489.38 Estimated AI Cost This Week
+💵 $561.82 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 705 AI Prompts
+🧠 31 AI Sessions, 743 AI Prompts
 
-Claude                   8,801 lines         █████████████████████░░░░   85.36 % 
-Sonnet                   1,510 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+Claude                   6,036 lines         █████████████████░░░░░░░░   68.45 % 
+Sonnet                   2,782 lines         ████████░░░░░░░░░░░░░░░░░   31.55 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.66% of written lines came from AI
-📚 Verbose Prompter — average 2,697 characters per prompt
-🔁 Iterative Prompter — average 25 prompts per session
-🚀 High AI Trust — 11.63% of changed lines were hand-edited
+🤖 AI-Driven — 96.88% of written lines came from AI
+📚 Verbose Prompter — average 2,439 characters per prompt
+🔁 Iterative Prompter — average 24 prompts per session
+🚀 High AI Trust — 3.84% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Ruby** 
@@ -103,5 +103,5 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/foreverLoveWisdom/foreverLoveWisdom/main/assets/bar_graph.png)
 
 
- Last Updated on 18/08/2026 20:17:02 UTC
+ Last Updated on 19/08/2026 00:44:23 UTC
 <!--END_SECTION:waka-->
