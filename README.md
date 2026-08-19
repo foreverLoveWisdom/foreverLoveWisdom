@@ -2,6 +2,10 @@
 
 Software engineer.
 
+AI agents are changing how software gets built, now and going forward — but a human
+still has to validate the work, judge the architecture, decide what to build, why, and
+when to stop, and just as importantly, what not to build.
+
 **Principles**
 - Changeability over cleverness
 - Understand before changing
@@ -12,6 +16,7 @@ Software engineer.
 - Functional programming
 - Domain-driven design
 - Distributed systems
+- AI agentic workflows
 - Electronics & Arduino
 - Mechanical engineering
 - Motorcycle racing training
