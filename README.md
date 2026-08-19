@@ -28,7 +28,11 @@ Trăm năm rồi cũng hoá ra hư không.<br><br>
 Nguyên tắc như một chuyến đò,<br>
 Qua sông rồi bỏ, ai đo bến bờ.<br>
 Ôm khư một mối tôn thờ,<br>
-Tay đâu mà mở lối chờ người sau.</i></sub>
+Tay đâu mà mở lối chờ người sau.<br><br>
+Trang này cũng chỉ phù vân,<br>
+Đôi dòng chữ mọn có ngần ấy thôi.<br>
+Mai kia gió cuốn xa xôi,<br>
+Chữ tan theo gió, người trôi phận mình.</i></sub>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C317%20hrs%2020%20mins-blue?style=flat)
