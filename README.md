@@ -32,7 +32,11 @@ Tay đâu mà mở lối chờ người sau.<br><br>
 Trang này cũng chỉ phù vân,<br>
 Đôi dòng chữ mọn có ngần ấy thôi.<br>
 Mai kia gió cuốn xa xôi,<br>
-Chữ tan theo gió, người trôi phận mình.</i></sub>
+Chữ tan theo gió, người trôi phận mình.<br><br>
+Người đang đọc mấy dòng đây,<br>
+Mai này cũng chẳng nhớ ngày đã qua.<br>
+Lời tôi nhẹ tựa sương xa,<br>
+Nghe rồi thì bỏ, đường xa tự tìm.</i></sub>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C317%20hrs%2020%20mins-blue?style=flat)
