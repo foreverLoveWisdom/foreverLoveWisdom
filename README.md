@@ -8,6 +8,14 @@ Software engineer.
 - Simplicity through removal, not addition
 - Evidence over opinion
 
+**Currently exploring** (free-time, need- and interest-driven, not a curriculum)
+- Functional programming
+- Domain-driven design
+- Distributed systems
+- Electronics & Arduino
+- Mechanical engineering
+- Motorcycle racing training
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C317%20hrs%2020%20mins-blue?style=flat)
 
